@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:dream-yt/dream-yt.github.io.git
+	branch = master
