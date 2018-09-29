@@ -1,4 +1,3 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/dream-yt/dream-yt.github.io.git
-	branch = --force
