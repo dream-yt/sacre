@@ -7,6 +7,10 @@ theme = "hugo-theme-cactus-plus"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = true
 
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+
 [params]
 	author = "site_author"
 	description = "Site Description"
