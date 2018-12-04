@@ -4,7 +4,7 @@ date: 2018-12-04T10:05:39+09:00
 draft: false
 ---
 
-GoogleのAPIを叩く際に、`GOOGLE_APPLICATION_CREDENTIALS`を使ってファイルから認証情報を読み取る例は書いてあったが、lambdaなどで環境変数に入ってる認証情報を使う方法が見つからなかったのでメモ
+GoogleのAPIを叩く際に、`GOOGLE_APPLICATION_CREDENTIALS`を使ってファイルから認証情報を読み取る例は書いてあったが、環境変数に入ってるJWT文字列を認証情報として使う方法が見つからなかったのでメモ
 
 こちらに書いてある`fromJSON` を使う方法を試したら通った
 
