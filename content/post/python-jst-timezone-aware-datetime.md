@@ -11,6 +11,8 @@ draft: false
 こんな定義で引数に渡した日付時間がJSTのdatetimeになる
 
 ```python
+from pytz import timezone
+
 def jst_datetime(*args):
     rest = [0] * (7 - len(args))
     return datetime(*args, *rest, timezone('Asia/Tokyo'))
