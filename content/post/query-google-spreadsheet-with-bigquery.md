@@ -14,7 +14,7 @@ $ bq mk --external_table_definition=[SCHEMA]@[SOURCE_FORMAT]=[GOOGLE_DRIVE_URL] 
 実際の値をいれるとこんな感じ
 
 ```bash
-$ export GOOGLE_SHEETS='https://docs.google.com/spreadsheets/d/1r--MIJGEuZSgx9KMQx4ak59wfwclyAOL9S80cZaV8BM/edit#gid=1436148405'
+$ export GOOGLE_SHEETS='https://docs.google.com/spreadsheets/d/1r--MIJGEuZSgx9KMQxyAOL9S80cZaV8BM/edit#gid=1436148405'
 $ export TABLE_DEF='shop_id:string,shop_name:string,area:string,business:string,genre:string'
 $ bq mk --external_table_definition="$TABLE_DEF"@GOOGLE_SHEETS="$GOOGLE_SHEETS" \
     log.test_shops2
