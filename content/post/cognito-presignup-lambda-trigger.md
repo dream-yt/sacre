@@ -31,7 +31,7 @@ serverless framework を使うとこんな設定ができる
 
 ### 注意
 
-- serverless frameworkでは既存のUserPoolをpoolに設定できない
+- serverless frameworkでは既存のUserPoolをpoolとして設定できない (新規作成のみ)
 - すでにPoolを作ってしまっている場合は関数だけ作ってUIから手動で紐付けとなる
 
 新規作成する場合も最低限の設定で作られてしまうので適宜上書きする必要がありそう
@@ -39,7 +39,31 @@ serverless framework を使うとこんな設定ができる
 - [Serverless Framework - AWS Lambda Events - Cognito User Pool](https://serverless.com/framework/docs/providers/aws/events/cognito-user-pool/#overriding-a-generated-user-pool)
 
 
-## eventオブジェクト
+## lambda上での処理の書き方
+
+autoConfirmUserにtrueを入れればOKとすることができる
+(拒否したい場合は明示的にfalseを入れる)
+
+```js
+event.response.autoConfirmUser = true;
+```
+
+emailで特定のドメインのみ許可したいという場合は以下のようになる
+
+```ts
+import { CognitoUserPoolTriggerEvent, Context } from 'aws-lambda';
+
+export default (event: CognitoUserPoolTriggerEvent, context: Context) => {
+  event.response.autoConfirmUser = /@mydomain.jp$/.test(event.request.userAttributes.email);
+  context.done(undefined, event);
+};
+```
+
+cognito側に認証可否を伝達するために `context.done(undefined, event)` を呼ぶ必要がある
+
+- [AWS Developer Forums: Pre authorization Trigger: "Invalid ...](https://forums.aws.amazon.com/thread.jspa?threadID=237677)
+
+### eventオブジェクト
 
 lambda関数に渡される `[event, context]` はこんな感じ
 
@@ -80,28 +104,3 @@ lambda関数に渡される `[event, context]` はこんな感じ
 ]
 
 ```
-
-
-## lambda上での処理の書き方
-
-autoConfirmUserにtrueを入れればOKとすることができる
-(拒否したい場合は明示的にfalseを入れる)
-
-```js
-event.response.autoConfirmUser = true;
-```
-
-emailで特定のドメインのみ許可したいという場合は以下のようになる
-
-```ts
-import { CognitoUserPoolTriggerEvent, Context } from 'aws-lambda';
-
-export default (event: CognitoUserPoolTriggerEvent, context: Context) => {
-  event.response.autoConfirmUser = /@mydomain.jp$/.test(event.request.userAttributes.email);
-  context.done(undefined, event);
-};
-```
-
-cognito側に認証可否を伝達するために `context.done(undefined, event)` を呼ぶ必要がある
-
-- [AWS Developer Forums: Pre authorization Trigger: "Invalid ...](https://forums.aws.amazon.com/thread.jspa?threadID=237677)
