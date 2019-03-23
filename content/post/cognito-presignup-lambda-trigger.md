@@ -41,27 +41,30 @@ serverless framework を使うとこんな設定ができる
 
 ## lambda上での処理の書き方
 
-autoConfirmUserにtrueを入れればOKとすることができる
-(拒否したい場合は明示的にfalseを入れる)
+- 承認する場合は引数で受け取ったeventをcontext.doneに渡す
+- 否認したい場合はnullを渡す
+  - これで合ってるのかは微妙...
+  - [AWS Developer Forums: presignup_signup response - how to deny ...](https://forums.aws.amazon.com/thread.jspa?threadID=246732)
 
-```js
-event.response.autoConfirmUser = true;
-```
-
-emailで特定のドメインのみ許可したいという場合は以下のようになる
+たとえばemailで特定のドメインのみ許可したいという場合は以下のようになる
 
 ```ts
 import { CognitoUserPoolTriggerEvent, Context } from 'aws-lambda';
 
 export default (event: CognitoUserPoolTriggerEvent, context: Context) => {
-  event.response.autoConfirmUser = /@mydomain.jp$/.test(event.request.userAttributes.email);
-  context.done(undefined, event);
+  const { email } = event.request.userAttributes;
+  if (email) {
+    const domain = email.split('@')[1];
+    // 認証しない場合は空のオブジェクトを返してinvalid-lambda-responseとする
+    context.done(undefined, domain === 'mydomain.jp' ? event : null);
+  }
 };
 ```
 
 cognito側に認証可否を伝達するために `context.done(undefined, event)` を呼ぶ必要がある
 
 - [AWS Developer Forums: Pre authorization Trigger: "Invalid ...](https://forums.aws.amazon.com/thread.jspa?threadID=237677)
+
 
 ### eventオブジェクト
 
