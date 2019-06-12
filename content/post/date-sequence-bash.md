@@ -18,12 +18,9 @@ $ seq -7 0 | xargs -I{} gdate -d+{}days +'%Y-%m-%d'
 2019-06-03
 ```
 
-bashのfor文とかで回す時に便利
+こんな感じで
 
 ```bash
-$ for d in $(seq -7 0 | xargs -I{} gdate -d+{}days +'%Y-%m-%d'); do
->   echo mycommand --date $d
-> done
 mycommand --date 2019-05-27
 mycommand --date 2019-05-28
 mycommand --date 2019-05-29
