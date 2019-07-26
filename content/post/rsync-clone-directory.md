@@ -9,7 +9,7 @@ draft: false
 ```bash
 $ rsync \
     -e "ssh -i ~/.ssh/id_rsa" \
-    -ahv --compress --delete ./webui/public/ skmt@n-t.jp:/www/data/decks
+    -ahv --compress --delete ./webui/public/ admin@test.jp:/www/data/
 ```
 
 - ssh鍵が指定が必要な場合は`-e`オプションで接続の仕方を指定する
