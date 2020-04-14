@@ -18,7 +18,7 @@ templateをコンパイル済みのjsコードを用意するか、`compiler-inc
 
 ```js
 // commonjsのプロジェクトなので `vue.common.dev.js`
-moduleNameMapper = {'vue': 'vue/dist/vue.common.dev.js'}
+moduleNameMapper = {'^vue$': 'vue/dist/vue.common.dev.js'}
 ```
 
 ## 参考
