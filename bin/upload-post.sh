@@ -18,5 +18,7 @@ git add .
 git commit -m $post_title
 git push origin master
 
-cp content/post/$post_title.md ~/.ghq/github.com/sakamossan/services/blog.n-t.jp/content/
-~/.ghq/github.com/sakamossan/services/blog.n-t.jp/scripts/deploy.sh
+pushd ~/.ghq/github.com/sakamossan/services/blog.n-t.jp
+    cp ~/.ghq/github.com/dream-yt/sacre/content/post/$post_title.md content/post/
+    scripts/deploy.sh
+popd
