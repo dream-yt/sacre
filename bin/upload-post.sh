@@ -19,5 +19,5 @@ git push origin master
 
 pushd ~/.ghq/github.com/sakamossan/services/blog.n-t.jp
     cp ~/.ghq/github.com/dream-yt/sacre/content/post/$post_title.md content/
-    scripts/deploy.sh
+    ~/.ghq/github.com/sakamossan/services/blog.n-t.jp/scripts/deploy.sh
 popd
