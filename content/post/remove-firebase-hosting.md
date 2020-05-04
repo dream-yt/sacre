@@ -13,7 +13,7 @@ firebase hosting は以下の要領でサイトを消すことができる
 $ firebase hosting:disable
 ? Are you sure you want to disable Firebase Hosting?
   This will immediately make your site inaccessible! Yes
-✔  Hosting has been disabled for mcskpjt-192612. Deploy a new version to re-enable.
+✔  Hosting has been disabled for pjx-112312. Deploy a new version to re-enable.
 
 ```
 
