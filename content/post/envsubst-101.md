@@ -21,7 +21,7 @@ $ brew link --force gettext
 
 例えば以下のようなテンプレートファイルがあるとして
 
-```yaml:_.tmpl
+```yaml
 ${ASSET}_status:
     not_null:
         ja: ${ASSET_JA}のステータスを入力してください

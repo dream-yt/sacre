@@ -8,7 +8,7 @@ Googleのサーチコンソールの認証をDNSでしたかったのでterrafor
 
 TXTレコードの値は `records` の中に入れる
 
-```hcl
+```
 resource "aws_route53_record" "b_n-t_jp__txt" {
   zone_id = "${aws_route53_zone.n_t.zone_id}"
   name = "b.f-f.jp"

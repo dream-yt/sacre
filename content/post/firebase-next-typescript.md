@@ -52,7 +52,7 @@ cpx "*{package.json,package-lock.json,yarn.lock}" "dist/functions" -C
 - `dist/functions/index.js` が cloud function から参照されるファイル
 - `dist/functions/index.js` が `dist/functions/next` 配下をloadしている
 
-```js:dist/index.js
+```js
 var app = next({
   dev,
   conf: { distDir: `${path.relative(process.cwd(), __dirname)}/next` }

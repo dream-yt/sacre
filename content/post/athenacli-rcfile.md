@@ -12,7 +12,7 @@ athenacli というCLIからathenaにクエリできるツールがある
 
 こんな形式のファイルを用意して
 
-```python:.athenaclirc
+```python
 [aws_profile myprofile]
 
 aws_access_key_id = 'AKIxxxxxxx'
@@ -38,7 +38,7 @@ $ athenacli --profile myprofile --athenaclirc ./.athenaclirc -e 'show databases'
 
 その場合はこんな設定ファイルを書くことになる
 
-```python:.athenaclirc
+```python
 [aws_profile default]
 
 aws_access_key_id = 'AKIxxxxxxx'

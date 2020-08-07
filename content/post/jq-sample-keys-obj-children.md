@@ -59,7 +59,7 @@ draft: false
 
 この変換はこんな感じのjqスクリプトで出来る
 
-```jq
+```
 keys[] as $k | { ($k): [.[$k].children[].code] }
 ```
 

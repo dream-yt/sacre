@@ -11,7 +11,7 @@ draft: false
 
 自前で実装するフォーム
 
-```tsx
+```jsx
 const MyForm = ({ handleSubmit }) => (
   <form onSubmit={handleSubmit}>
     <div>
@@ -51,7 +51,7 @@ const RDForm = reduxForm({ form: 'sampleIt' })(MyForm);
 onSubmit属性に好きな関数を渡して使う
 (多くの場合はサーバ側にPOSTしたりとか)
 
-```tsx
+```jsx
 <RDForm onSubmit={console.log} />
 ```
 

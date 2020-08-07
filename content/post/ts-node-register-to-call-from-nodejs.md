@@ -14,7 +14,7 @@ ts-node/register を使うとできる
 
 こんなコードを書くとrequireできる
 
-```js:
+```js
 #!/usr/bin/env node
 require("source-map-support").install()
 require("ts-node").register()

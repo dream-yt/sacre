@@ -19,7 +19,7 @@ $ terraform init
 
 適当なtfファイル(main.tfなど)を作成してproviderを記述
 
-```terraform
+```
 provider "aws" {
   region     = "ap-northeast-1"
   access_key = "xxxxxxxxx"
@@ -29,7 +29,7 @@ provider "aws" {
 
 そのtfファイルに、空のリソースを定義しておく必要がある
 
-```terraform
+```
 # mydomain.comならこんな感じ
 resource "aws_route53_zone" "mydomain" {}
 ```
