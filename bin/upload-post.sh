@@ -17,6 +17,9 @@ git add .
 git commit -m $post_title
 git push origin master
 
-(test -d ~/.ghq/github.com/sakamossan/services/next-blog.n-t.jp \
-    && cd $_ \
-    && npm run deploy)
+readonly dir="$HOME/.ghq/github.com/sakamossan/services/next-blog.n-t.jp"
+if [ -d $dir ]; then
+    pushd $dir
+        direnv exec . npm run deploy
+    popd
+fi
