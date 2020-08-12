@@ -17,7 +17,6 @@ git add .
 git commit -m $post_title
 git push origin master
 
-# pushd ~/.ghq/github.com/sakamossan/services/blog.n-t.jp
-#     cp ~/.ghq/github.com/dream-yt/sacre/content/post/$post_title.md content/
-#     ~/.ghq/github.com/sakamossan/services/blog.n-t.jp/scripts/deploy.sh
-# popd
+(test -d ~/.ghq/github.com/sakamossan/services/next-blog.n-t.jp \
+    && cd $_ \
+    && npm run deploy)
