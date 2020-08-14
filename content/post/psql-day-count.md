@@ -2,7 +2,6 @@
 title: "PostgreSQLで特定期間の日数/時間数などを数える"
 author: iruka
 date: 2019-03-16T17:00:00+09:00
-author: sakamossan
 draft: false
 categories: [ "posgresql" ]
 tags: [ "posgresql" ]

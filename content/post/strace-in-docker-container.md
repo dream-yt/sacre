@@ -2,7 +2,6 @@
 title: "dockerコンテナ内でstraceを使う"
 date: 2018-10-24T23:36:47+09:00
 author: sakamossan
-author: sakamossan
 draft: false
 ---
 

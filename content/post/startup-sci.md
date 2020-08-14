@@ -1,7 +1,7 @@
 ---
 title: "起業の科学の読書メモ"
 date: 2018-10-28T18:14:17+09:00
-draft: false
+draft: true
 author: sakamossan
 ---
 
