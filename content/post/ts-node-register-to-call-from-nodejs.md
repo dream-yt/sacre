@@ -2,6 +2,7 @@
 title: "nodejsのコードからtypescriptをrequireする"
 date: 2019-10-14T14:01:42+09:00
 draft: false
+author: sakamossan
 ---
 
 ts-node/register を使うとできる

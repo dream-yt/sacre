@@ -2,6 +2,7 @@
 title: "There is no document formatter for 'sql'-files installed"
 date: 2019-01-22T12:52:05+09:00
 draft: false
+author: sakamossan
 ---
 
 vscodeを使っている。SQLファイルは保存時にフォーマットされるようしているが、

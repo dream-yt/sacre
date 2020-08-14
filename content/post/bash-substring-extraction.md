@@ -2,6 +2,7 @@
 title: "bashの変数から文字列を取り出す"
 date: 2020-06-25T12:22:41+09:00
 draft: false
+author: sakamossan
 ---
 
 以下のような記法で変数から部分文字列を取り出すことができる

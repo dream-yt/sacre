@@ -2,6 +2,7 @@
 title: "プロジェクトの.bigqueryrcの設定"
 date: 2019-08-08T12:14:56+09:00
 draft: false
+author: sakamossan
 ---
 
 - bqコマンド、`--maximum_bytes_billed` とか、デフォルトで設定しておきたいオプションはある

@@ -2,6 +2,7 @@
 title: "サービスアカウントで認証してGoogleSpreadsheetからデータを取得"
 date: 2018-12-01T16:30:16+09:00
 draft: false
+author: sakamossan
 ---
 
 spreadsheetのデータを取ってくるやり方をググったらいいのが見つからなかった

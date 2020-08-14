@@ -2,6 +2,7 @@
 title: "envsubstを使って環境変数だけでサクッとテンプレート出力する"
 date: 2019-03-05T15:20:05+09:00
 draft: false
+author: sakamossan
 ---
 
 gettextパッケージに入っているenvsubstコマンドを使うと、テンプレートファイルから環境変数を埋めて出力することができる

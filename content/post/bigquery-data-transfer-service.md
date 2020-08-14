@@ -2,6 +2,7 @@
 title: "Bigquery Data Transfer Service について"
 date: 2019-01-29T08:43:23+09:00
 draft: false
+author: sakamossan
 ---
 
 `$ bq mk --table --help` で今まで知らなかったオプションを見つけた

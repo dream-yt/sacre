@@ -2,6 +2,7 @@
 title: "MySQLで、URLからホスト部まで抜き出す"
 date: 2020-05-13T12:56:31+09:00
 draft: false
+author: sakamossan
 ---
 
 ちょっとサボって `https://` などのスキーマ部も入る形

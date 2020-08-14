@@ -2,6 +2,7 @@
 title: "ttyとは"
 date: 2020-03-28T14:37:28+09:00
 draft: false
+author: sakamossan
 ---
 
 プロセスは2種類に分けられる

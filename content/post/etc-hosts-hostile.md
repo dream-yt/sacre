@@ -2,6 +2,7 @@
 title: "hostileで/etc/hostsをテキスト管理する"
 date: 2019-01-07T17:24:25+09:00
 draft: false
+author: sakamossan
 ---
 
 - [feross/hostile: Simple, programmatic `/etc/hosts` manipulation (in node.js)](https://github.com/feross/hostile)

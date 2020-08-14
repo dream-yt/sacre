@@ -2,6 +2,7 @@
 title: "ALBの直近1時間のリクエスト数をawscliで取得する"
 date: 2019-01-20T15:05:24+09:00
 draft: false
+author: sakamossan
 ---
 
 以下のコマンドで取得できる

@@ -2,6 +2,7 @@
 title: "BigQueryの日付分割テーブルを使う"
 date: 2018-10-28T02:24:40+09:00
 draft: false
+author: sakamossan
 author: 
 ---
 

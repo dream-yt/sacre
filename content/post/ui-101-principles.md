@@ -2,6 +2,7 @@
 title: "[読書メモ] インターフェイスデザインのお約束"
 date: 2019-11-18T15:09:20+09:00
 draft: false
+author: sakamossan
 ---
 
 - [O'Reilly Japan - インタフェースデザインのお約束](https://www.oreilly.co.jp/books/9784873118949/)

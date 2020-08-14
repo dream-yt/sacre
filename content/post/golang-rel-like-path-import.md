@@ -2,6 +2,7 @@
 title: "golangで相対パスっぽいimportをできるようにする"
 date: 2020-03-13T17:54:21+09:00
 draft: false
+author: sakamossan
 ---
 
 ※ おそらくよくないやりかたである

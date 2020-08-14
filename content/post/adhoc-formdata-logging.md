@@ -2,6 +2,7 @@
 title: "htmlで、雑にformから送信される値を見たい"
 date: 2019-02-26T12:47:49+09:00
 draft: false
+author: sakamossan
 ---
 
 - submitイベントを途中で止める

@@ -2,6 +2,7 @@
 title: "AWS Key Management Service (KMS) 入門"
 date: 2019-08-17T16:43:19+09:00
 draft: false
+author: sakamossan
 ---
 
 - [AWS Key Management Service とは - AWS Key Management Service](https://docs.aws.amazon.com/ja_jp/kms/latest/developerguide/overview.html)

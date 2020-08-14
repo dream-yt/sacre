@@ -2,6 +2,7 @@
 title: "TypeScript の Type Guard を使う"
 date: 2019-11-01T08:03:40+09:00
 draft: false
+author: sakamossan
 ---
 
 typescriptでは型をチェックするような分岐を書くことができる  

@@ -2,6 +2,7 @@
 title: "SlackAPI よりチャンネルとアイコンとユーザ名を変更してポストする"
 date: 2020-06-05T01:04:32+09:00
 draft: false
+author: sakamossan
 ---
 
 現在、Slack は昔ながらの Webhook の方式ではチャンネルとアイコンとユーザ名をすべてデフォルトから変更してポストできなくなっている

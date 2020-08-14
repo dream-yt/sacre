@@ -2,6 +2,7 @@
 title: "VLOOKUPの使い方をメモ"
 date: 2019-01-23T09:40:35+09:00
 draft: false
+author: sakamossan
 ---
 
 自分で使ったことがなかったので勉強

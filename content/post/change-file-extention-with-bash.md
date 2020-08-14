@@ -2,6 +2,7 @@
 title: "bashでファイルの拡張子を一括変更する"
 date: 2019-07-16T11:23:13+09:00
 draft: false
+author: sakamossan
 ---
 
 たとえばsrc配下のjsファイルをぜんぶtsファイルに変更したい場合は以下のように書ける

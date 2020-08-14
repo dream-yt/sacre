@@ -2,6 +2,7 @@
 title: "RSSHubにPR出すときのメモ"
 date: 2020-03-29T20:45:55+09:00
 draft: false
+author: sakamossan
 ---
 
 - [DIYgod/RSSHub: 🍰 Everything is RSSible](https://github.com/DIYgod/RSSHub)

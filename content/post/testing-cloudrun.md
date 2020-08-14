@@ -2,6 +2,7 @@
 title: "Cloud Runの動作確認 (イメージのビルド、デプロイと削除)"
 date: 2020-02-12T08:29:32+09:00
 draft: false
+author: sakamossan
 ---
 
 - [システム パッケージのチュートリアルを使用する  |  Cloud Run  |  Google Cloud](https://cloud.google.com/run/docs/tutorials/system-packages)

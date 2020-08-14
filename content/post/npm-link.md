@@ -2,6 +2,7 @@
 title: "開発中のパッケージをrequireできる npm link を使う"
 date: 2020-05-04T22:36:52+09:00
 draft: false
+author: sakamossan
 ---
 
 npmパッケージを開発するとき、いちいちnpmにアップロードしてそれを使う側でinstallしてなどとやってられないので npm link という仕組みがある

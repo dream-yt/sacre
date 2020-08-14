@@ -2,6 +2,7 @@
 title: "browserifyからwebpackに移行するときのエラー"
 date: 2020-01-23T17:46:27+09:00
 draft: false
+author: sakamossan
 ---
 
 browserifyのcommonjsと、webpackのcommonjsの違いにハマったときの話

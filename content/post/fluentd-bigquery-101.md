@@ -2,6 +2,7 @@
 title: "Fluentd→Bigquery タグごとに別テーブルにinsert"
 date: 2019-12-28T11:12:24+09:00
 draft: false
+author: sakamossan
 ---
 
 こんな設定でできる

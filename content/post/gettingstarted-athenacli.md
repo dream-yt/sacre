@@ -2,6 +2,7 @@
 title: "athenacliを使う"
 date: 2018-11-03T18:11:44+09:00
 draft: false
+author: sakamossan
 ---
 
 awscliにはathenaサブコマンドが用意されているが、gcpのbqコマンドのように便利な雰囲気ではない

@@ -2,6 +2,7 @@
 title: "circleciのcronトリガーでfirebase/hostingをアップデートする"
 date: 2019-11-04T14:26:47+09:00
 draft: false
+author: sakamossan
 ---
 
 こんな前提の場合の設定

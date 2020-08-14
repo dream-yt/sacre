@@ -2,6 +2,7 @@
 title: "入門監視の読書メモ"
 date: 2019-05-19T15:19:54+09:00
 draft: false
+author: sakamossan
 ---
 
 <a href="https://www.amazon.co.jp/%E5%85%A5%E9%96%80-%E7%9B%A3%E8%A6%96-%E2%80%95%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-Mike-Julian/dp/4873118646/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%85%A5%E9%96%80%E7%9B%A3%E8%A6%96&qid=1558243823&s=gateway&sr=8-1&linkCode=li3&tag=rocklaakira-22&linkId=587681fbd4cf11eabed2d04e6a217453&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873118646&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=rocklaakira-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=rocklaakira-22&language=ja_JP&l=li3&o=9&a=4873118646" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -2,6 +2,7 @@
 title: "m3u8とhls"
 date: 2019-12-24T19:08:10+09:00
 draft: false
+author: sakamossan
 ---
 
 m3u8とhls は両方とも動画ファイルの配信で使う仕様/ファイルフォーマットの名前

@@ -2,6 +2,7 @@
 title: "CloudLogging で監査ログを除外する"
 date: 2020-06-05T07:08:03+09:00
 draft: false
+author: sakamossan
 ---
 
 GCPには、ユーザの操作などを記録する監査ログがデフォルトで有効になっているサービスがいくつかある

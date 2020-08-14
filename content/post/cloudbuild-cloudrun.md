@@ -2,6 +2,7 @@
 title: "cloudrun にデプロイする cloudbuild.yaml"
 date: 2020-05-07T23:20:24+09:00
 draft: false
+author: sakamossan
 ---
 
 ### トリガー

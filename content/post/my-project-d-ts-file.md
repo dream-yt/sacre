@@ -2,6 +2,7 @@
 title: ".d.ts ファイルを自作してimportする"
 date: 2020-01-12T12:35:03+09:00
 draft: false
+author: sakamossan
 ---
 
 APIのTypeScriptの型定義ファイル(`foobar.d.ts`など)が提供されておらず、APIレスポンスをjson2tsなどにつっこんで型定義ファイルを得るということをよくやる

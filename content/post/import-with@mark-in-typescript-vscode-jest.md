@@ -2,6 +2,7 @@
 title: "webpackで、プロジェクトのファイルを@ディレクトリ配下でimportできるような設定"
 date: 2019-08-25T15:44:56+09:00
 draft: false
+author: sakamossan
 ---
 
 webpackだとsymlink貼ったり `NODE_PATH` をいじったりする必要はない

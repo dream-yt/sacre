@@ -2,6 +2,7 @@
 title: "GCP の cloudbuild を ローカルで実行する"
 date: 2020-05-07T08:29:36+09:00
 draft: false
+author: sakamossan
 ---
 
 `cloud-build-local` というツールがあり、公式のドキュメント通りにやればだいたいできる

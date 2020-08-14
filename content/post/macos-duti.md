@@ -2,6 +2,7 @@
 title: "macosでデフォルトで開くアプリをコマンドライン(duti)で変更する"
 date: 2019-09-12T12:29:58+09:00
 draft: false
+author: sakamossan
 ---
 
 macosでは各拡張子ごとにデフォルトで開くアプリが決まっている

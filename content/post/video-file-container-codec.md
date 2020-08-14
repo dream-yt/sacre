@@ -2,6 +2,7 @@
 title: "動画ファイル、コンテナとコーデックとは"
 date: 2020-08-13T15:51:33+09:00
 draft: false
+author: sakamossan
 ---
 
 ## コンテナ

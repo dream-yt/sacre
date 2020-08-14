@@ -2,6 +2,7 @@
 title: "perlのstrict/utf8フラグについて"
 date: 2019-07-30T14:42:22+09:00
 draft: false
+author: sakamossan
 ---
 
 なんとなく知識では知っていたけど試したことがなかったのでメモ

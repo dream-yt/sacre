@@ -2,6 +2,7 @@
 title: "ffmpegコマンドの最小限の基本"
 date: 2019-10-23T17:45:08+09:00
 draft: false
+author: sakamossan
 ---
 
 基本はこの順番

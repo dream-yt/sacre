@@ -2,6 +2,7 @@
 title: "ポートフォワードしてリモートのMySQLに接続する"
 date: 2020-02-27T16:50:22+09:00
 draft: false
+author: sakamossan
 ---
 
 リモートワークになったのでローカルの環境構築をしている

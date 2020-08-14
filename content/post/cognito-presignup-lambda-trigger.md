@@ -2,6 +2,7 @@
 title: "cognitoで特定ドメインのGoogleアカウントだけsignUpさせる"
 date: 2019-03-23T11:54:52+09:00
 draft: false
+author: sakamossan
 ---
 
 lambda trigger を設定できるのでこの関数の中で可否を判定する

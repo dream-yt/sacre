@@ -2,6 +2,7 @@
 title: "jsでマルチバイト文字にあてる正規表現はuフラグをつける"
 date: 2020-08-03T10:19:16+09:00
 draft: false
+author: sakamossan
 ---
 
 ## 理由

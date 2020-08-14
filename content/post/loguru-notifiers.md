@@ -2,6 +2,7 @@
 title: "loguruとnotifiersを使ってslack通知をする"
 date: 2019-01-02T12:55:49+09:00
 draft: false
+author: sakamossan
 ---
 
 ## 前提

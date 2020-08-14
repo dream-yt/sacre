@@ -2,6 +2,7 @@
 title: "cloudrun/cloudscheduler入門"
 date: 2020-02-18T09:09:40+09:00
 draft: false
+author: sakamossan
 ---
 
 毎日決まった時間にスクリプトを実行したい要求があったので、マネージドの環境で実行できるcloudrun/cloudschedulerを試してみた

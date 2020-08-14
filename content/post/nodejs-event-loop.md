@@ -2,6 +2,7 @@
 title: "nodejsのEvent Loopについておおまかなメモ"
 date: 2020-04-19T13:35:05+09:00
 draft: false
+author: sakamossan
 ---
 
 nodejsのイベントループは次の6個のフェーズからなる

@@ -2,6 +2,7 @@
 title: "git grepで探すファイルの拡張子を指定"
 date: 2020-01-17T11:35:48+09:00
 draft: false
+author: sakamossan
 ---
 
 こんな感じでできる

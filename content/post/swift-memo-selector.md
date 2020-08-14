@@ -2,6 +2,7 @@
 title: "swiftのselectorについて"
 date: 2019-03-16T12:19:07+09:00
 draft: false
+author: sakamossan
 ---
 
 - コールバックを渡すための仕組みのようなもの?

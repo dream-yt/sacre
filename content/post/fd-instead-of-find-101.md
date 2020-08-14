@@ -2,6 +2,7 @@
 title: "fdを使う"
 date: 2020-02-26T16:34:33+09:00
 draft: false
+author: sakamossan
 ---
 
 rustで GNU Core Utilities 実装してみたよシリーズであるところのfdコマンド

@@ -2,6 +2,7 @@
 title: "dockerイメージの、レイヤーとサイズの関係をみる"
 date: 2019-07-05T12:52:40+09:00
 draft: false
+author: sakamossan
 ---
 
 docker history を使うとみられる

@@ -2,6 +2,7 @@
 title: "vscodeのMarkdownPreviewにカスタムCSSをあてる"
 date: 2019-09-18T16:25:00+09:00
 draft: false
+author: sakamossan
 ---
 
 vscodeのマークダウンプレビューは便利だけど、スタイリングをちょっと修正したかったので  

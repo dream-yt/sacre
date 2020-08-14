@@ -2,6 +2,7 @@
 title: "HLSとm3u8ファイルとMaster Playlistについて"
 date: 2020-01-06T12:33:01+09:00
 draft: false
+author: sakamossan
 ---
 
 こちらの記事の焼き直し

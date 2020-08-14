@@ -2,6 +2,7 @@
 title: "firebaseでスケジュール(cron)実行"
 date: 2019-11-09T17:14:52+09:00
 draft: false
+author: sakamossan
 ---
 
 まず、事前にfirebaseのコンソール画面で `リソースロケーション` を選ぶ必要がある

@@ -2,6 +2,7 @@
 title: "perlの正規表現、e(eval)オプション"
 date: 2019-03-19T17:12:58+09:00
 draft: false
+author: sakamossan
 ---
 
 eオプションをつけるとマッチした箇所に好きな処理が書けて便利

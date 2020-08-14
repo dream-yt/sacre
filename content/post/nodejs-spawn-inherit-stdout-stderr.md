@@ -2,6 +2,7 @@
 title: "nodejsで標準入出力/エラーを共有した子プロセスを作る"
 date: 2020-02-14T11:26:41+09:00
 draft: false
+author: sakamossan
 ---
 
 cloudrunを使う際に必要になった

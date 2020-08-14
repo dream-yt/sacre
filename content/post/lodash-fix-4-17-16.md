@@ -2,6 +2,7 @@
 title: "lodash@4.17.16 の脆弱性修正について"
 date: 2020-07-28T12:23:16+09:00
 draft: false
+author: sakamossan
 ---
 
 `4.17.16` にていくつかの脆弱性が修正されている

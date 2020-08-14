@@ -2,6 +2,7 @@
 title: "bigqueryのtransfer_configの実行履歴の確認の仕方"
 date: 2019-02-24T10:50:59+09:00
 draft: false
+author: sakamossan
 ---
 
 ### transfer_config

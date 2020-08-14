@@ -2,6 +2,7 @@
 title: "SSL越しにローカルの静的ファイルを閲覧したい (開発用)"
 date: 2019-07-10T18:26:22+09:00
 draft: false
+author: sakamossan
 ---
 
 ### SSLさせてくれるhttpサーバのコード

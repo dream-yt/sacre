@@ -2,6 +2,7 @@
 title: "macで動画のビットレートを変更したい"
 date: 2019-02-13T15:20:54+09:00
 draft: false
+author: sakamossan
 ---
 
 ffmpegを使う

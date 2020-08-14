@@ -2,6 +2,7 @@
 title: "serverless-plugin-aws-alertsでエラーを監視"
 date: 2020-07-05T20:48:54+09:00
 draft: false
+author: sakamossan
 ---
 
 Serverless Framework を使っている場合、エラーやタイムアウトなどの検知をするためのリソースはプラグインで簡単に簡単に生成できる

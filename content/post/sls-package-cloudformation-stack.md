@@ -2,6 +2,7 @@
 title: "serverless deploy で生成されるリソースを事前に確認する"
 date: 2018-12-08T23:48:03+09:00
 draft: false
+author: sakamossan
 ---
 
 serverlessのプラグインを使うと色々なリソースを勝手に作ってくれたりして便利だが、実行するまでプラグインのyaml設定が思い通りになっているか分からなくて、dryrunみたいなことがしたい場合がある。が、slsコマンドにdryrunオプションはない

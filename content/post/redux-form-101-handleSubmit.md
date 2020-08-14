@@ -2,6 +2,7 @@
 title: "redux-form (handleSubmit) 入門"
 date: 2019-06-16T10:23:17+09:00
 draft: false
+author: sakamossan
 ---
 
 

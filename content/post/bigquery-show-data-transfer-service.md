@@ -2,6 +2,7 @@
 title: "BigQueryのtransfer_configを表示する"
 date: 2019-01-29T22:32:51+09:00
 draft: false
+author: sakamossan
 ---
 
 以下の要領で表示できる

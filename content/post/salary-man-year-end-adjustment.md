@@ -2,6 +2,7 @@
 title: "年末調整で毎回調べる諸々"
 date: 2018-11-17T11:41:24+09:00
 draft: false
+author: sakamossan
 ---
 
 # 年末調整で毎回調べる諸々

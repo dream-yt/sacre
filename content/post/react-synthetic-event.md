@@ -2,6 +2,7 @@
 title: "React の Synthetic Event"
 date: 2019-07-01T09:34:06+09:00
 draft: false
+author: sakamossan
 ---
 
 Reactに標準でついてくるEventオブジェクト

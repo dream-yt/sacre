@@ -2,6 +2,7 @@
 title: "typescriptでのnullチェック"
 date: 2019-06-30T13:59:54+09:00
 draft: false
+author: sakamossan
 ---
 
 基本的にはイコール2つの演算子でチェックすれば

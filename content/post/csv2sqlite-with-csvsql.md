@@ -2,6 +2,7 @@
 title: "csvからsqliteのdbファイルを作成/操作"
 date: 2019-05-25T13:44:24+09:00
 draft: false
+author: sakamossan
 ---
 
 例えばathenaのクエリ結果のcsvをさらにこねたいときなど

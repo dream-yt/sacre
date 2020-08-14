@@ -2,6 +2,7 @@
 title: "serverlessのcors対応"
 date: 2019-03-09T19:11:52+09:00
 draft: false
+author: sakamossan
 ---
 
 s3に静的htmlをホスティングしてlambda/apigatewayからデータを取得する形でやろうとすると、当然s3とlambda / apigatewayのドメインが異なるのでcors対応が必要になる。serverlessのcors対応はあまりこなれていなくて何箇所かいじる必要がある。

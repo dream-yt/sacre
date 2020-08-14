@@ -2,6 +2,7 @@
 title: "package.json の deps を深く考えずに全部upgradeする"
 date: 2020-01-11T16:34:44+09:00
 draft: false
+author: sakamossan
 ---
 
 以下のコマンドでできる

@@ -2,6 +2,7 @@
 title: "jq で parseInt"
 date: 2019-09-28T12:26:35+09:00
 draft: false
+author: sakamossan
 ---
 
 jqで文字列から数値に変換したいときは `tonumber` 関数を使う

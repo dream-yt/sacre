@@ -2,6 +2,7 @@
 title: "lambda/typescriptでexpressを使う"
 date: 2019-02-23T12:02:54+09:00
 draft: false
+author: sakamossan
 ---
 
 express普通に便利なのでawslabs謹製のツールから使う

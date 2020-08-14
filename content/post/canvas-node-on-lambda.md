@@ -2,6 +2,7 @@
 title: "node-canvasをlambdaで動かす"
 date: 2019-06-22T13:00:03+09:00
 draft: false
+author: sakamossan
 ---
 
 node-canvasは内部でネイティブモジュールを使用しているため、macos上でコンパイルしたものをlambdaにアップロードしても動作しない。AmazonLinux上でコンパイルしたものをlambdaへアップロードすることになる。

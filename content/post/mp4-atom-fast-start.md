@@ -2,6 +2,7 @@
 title: "mp4のatomとは"
 date: 2020-08-13T17:03:54+09:00
 draft: false
+author: sakamossan
 ---
 
 - atomとはmp4ファイルを構成する要素

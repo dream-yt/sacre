@@ -2,6 +2,7 @@
 title: "Start Gcp Free Instance"
 date: 2019-12-25T00:13:24+09:00
 draft: false
+author: sakamossan
 ---
 
 # gcpで無料のインスタンスを立ち上げてsshするまで

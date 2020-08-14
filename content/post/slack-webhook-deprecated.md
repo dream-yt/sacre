@@ -2,6 +2,7 @@
 title: "最近払い出した Slackの Incoming Webhooks で通知チャンネルを変更する"
 date: 2019-01-02T12:29:19+09:00
 draft: false
+author: sakamossan
 ---
 
 

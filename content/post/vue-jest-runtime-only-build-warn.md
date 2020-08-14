@@ -2,6 +2,7 @@
 title: "runtime-only build of Vue where the template compiler is not available"
 date: 2020-04-14T12:15:24+09:00
 draft: false
+author: sakamossan
 ---
 
 vueコンポーネントが混ざったjsのテストで以下のようなwarningがでる

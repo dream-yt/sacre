@@ -2,6 +2,7 @@
 title: "jsファイルの容量削減 lodash/jQuery"
 date: 2020-07-25T00:01:24+09:00
 draft: false
+author: sakamossan
 ---
 
 webpackの設定がよくなかったのか、生成したバンドルjsファイルが重かったので若干雑な感じで軽くした

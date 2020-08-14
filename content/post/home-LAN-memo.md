@@ -2,6 +2,7 @@
 title: "自宅のLANの設定で毎回調べることメモ"
 date: 2019-12-11T11:55:06+09:00
 draft: false
+author: sakamossan
 ---
 
 ## PPPoE とは

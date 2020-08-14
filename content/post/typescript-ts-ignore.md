@@ -2,6 +2,7 @@
 title: "typescriptで特定ファイルのコンパイルエラーだけdisableする"
 date: 2019-02-23T19:57:57+09:00
 draft: false
+author: sakamossan
 ---
 
 typescriptのコンパイラオプションは一般的にはtsconfig.jsonでプロジェクト全体のコンパイルの設定を定義することになる。たとえば `strictNullChecks` とか `noUnusedLocals` といった項目を設定する。

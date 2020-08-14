@@ -2,6 +2,7 @@
 title: "Firebase Hosting のサイトを削除する"
 date: 2020-05-02T10:01:52+09:00
 draft: false
+author: sakamossan
 ---
 
 firebase hosting は以下の要領でサイトを消すことができる

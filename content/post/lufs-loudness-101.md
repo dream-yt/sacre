@@ -2,6 +2,7 @@
 title: "動画のラウドネスについて"
 date: 2019-10-08T13:08:30+09:00
 draft: false
+author: sakamossan
 ---
 
 動画のエンコードをする場合の用語の整理    

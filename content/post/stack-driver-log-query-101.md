@@ -2,6 +2,7 @@
 title: "StackDriverLoggingのログへのクエリ入門"
 date: 2019-11-26T18:46:57+09:00
 draft: false
+author: sakamossan
 ---
 
 - クエリ内の文字列にはダブルクオートを使う必要がある (シングルクオートはダメそう)

@@ -2,6 +2,7 @@
 title: "cloudwatch、アラームの設定 (period, treatMissingData)"
 date: 2018-12-09T14:07:39+09:00
 draft: false
+author: sakamossan
 ---
 
 `serverless-plugin-aws-alerts` を使うとアラームの設定/適用まで簡単に出来る

@@ -2,6 +2,7 @@
 title: "特定のファイルを消したコミットを確認する"
 date: 2019-01-25T13:49:58+09:00
 draft: false
+author: sakamossan
 ---
 
 以下のコマンドで確認できる

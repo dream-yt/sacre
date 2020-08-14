@@ -2,6 +2,7 @@
 title: "mongodump/mongoexportのやりかた"
 date: 2018-12-14T13:11:58+09:00
 draft: false
+author: sakamossan
 ---
 
 mongoexport ってのでjson形式で吐き出せる (jqを使って作業がしやすい)

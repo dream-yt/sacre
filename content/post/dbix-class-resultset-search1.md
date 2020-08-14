@@ -2,6 +2,7 @@
 title: "perlのDBIx::Class::ResultSetでちょい手の込んだSELECTの例1"
 date: 2019-04-08T18:43:30+09:00
 draft: false
+author: sakamossan
 ---
 
 - searchメソッドはすごい色々できるので覚えきれない

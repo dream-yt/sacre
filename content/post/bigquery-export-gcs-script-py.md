@@ -2,6 +2,7 @@
 title: "bigqueryのクエリ結果をgcsに出力するスクリプト"
 date: 2019-08-10T16:24:49+09:00
 draft: false
+author: sakamossan
 ---
 
 こんな段取りで行う

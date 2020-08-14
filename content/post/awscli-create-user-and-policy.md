@@ -2,6 +2,7 @@
 title: "IAM権限を絞ったuserでserverlessを使う"
 date: 2019-11-02T15:10:56+09:00
 draft: false
+author: sakamossan
 ---
 
 Serverless framework は `sls deploy` コマンドを叩くAWSユーザには admin アクセスを推奨している

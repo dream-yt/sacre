@@ -2,6 +2,7 @@
 title: "PythonでTimezone Aware(Jst)なdatetimeを作る"
 date: 2019-01-12T23:42:03+09:00
 draft: false
+author: sakamossan
 ---
 
 ググっても簡単なのが出てこなかったのでメモ

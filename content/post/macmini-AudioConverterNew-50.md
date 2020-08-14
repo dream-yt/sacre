@@ -2,6 +2,7 @@
 title: "AudioConverterNew returned -50"
 date: 2019-01-02T20:13:32+09:00
 draft: false
+author: sakamossan
 ---
 
 > 2019-01-02 18:56:01.693434+0900 MyAPP[7575:859800] [AQ] 1154: AudioConverterNew returned -50

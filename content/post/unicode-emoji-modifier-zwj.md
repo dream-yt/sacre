@@ -2,6 +2,7 @@
 title: "emojiで肌とか性別とか髪の色が変えられる仕組み"
 date: 2020-08-06T12:05:18+09:00
 draft: false
+author: sakamossan
 ---
 
 unicodeでは肌の色を変えられる仕組みが2015年から入っている。これは `skin tone modifiers` と呼ばれるもので、結合文字のようにベースとなる絵文字の後ろにコードポイントを従えることで実現している

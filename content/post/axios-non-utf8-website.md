@@ -2,6 +2,7 @@
 title: "UTF-8じゃないサイトをaxiosで取得する"
 date: 2019-11-17T12:34:41+09:00
 draft: false
+author: sakamossan
 ---
 
 axiosはデフォルトでサイトの文字コードをUTF-8決め打ちでデコードしてしまう  

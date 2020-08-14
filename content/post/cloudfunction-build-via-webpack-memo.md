@@ -2,6 +2,7 @@
 title: "Firebase Cloudfunction のデプロイに webpack を使ってビルドしようとするメモ"
 date: 2020-05-31T19:03:18+09:00
 draft: false
+author: sakamossan
 ---
 
 次のような理由で Cloudfunction のビルドに webpack が使いたくなった

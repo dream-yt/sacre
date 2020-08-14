@@ -2,6 +2,7 @@
 title: "いまのブランチでいじってるファイルをいっぺんにvscodeで開く"
 date: 2018-12-06T14:25:18+09:00
 draft: false
+author: sakamossan
 ---
 
 なお、ブランチはmasterから派生させている前提

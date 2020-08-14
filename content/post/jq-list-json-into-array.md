@@ -2,6 +2,7 @@
 title: "jqで改行区切りなど連続したjsonを配列にする"
 date: 2019-09-18T22:47:34+09:00
 draft: false
+author: sakamossan
 ---
 
 jq でselectとかで色々やったあと配列に戻したいときがある

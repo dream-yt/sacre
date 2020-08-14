@@ -2,6 +2,7 @@
 title: "[jest] SyntaxError: The string did not match the expected pattern"
 date: 2020-06-07T06:46:32+09:00
 draft: false
+author: sakamossan
 ---
 
 axios を使った jest のテストで以下のようなエラーが出た

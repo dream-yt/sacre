@@ -2,6 +2,7 @@
 title: "AWSのアクセストークンが昨日どんなAPIコールを行なったか確認する"
 date: 2019-06-10T13:31:32+09:00
 draft: false
+author: sakamossan
 ---
 
 cloudtrailのlookup-eventsで昨日の分をすべてとる

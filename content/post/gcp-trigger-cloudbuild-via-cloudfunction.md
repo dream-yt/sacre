@@ -2,6 +2,7 @@
 title: "CloudFunction で CloudBuild をトリガーする "
 date: 2020-06-01T16:31:19+09:00
 draft: false
+author: sakamossan
 ---
 
 まずgcloudで既存のトリガーの一覧を確認しておく

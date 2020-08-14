@@ -2,6 +2,7 @@
 title: "SQLで5分ごとの平均を出す"
 date: 2019-12-07T22:26:58+09:00
 draft: false
+author: sakamossan
 ---
 
 こんな2カラムがあるテーブルで5分ごとのdurationの平均とかMAXとかをサマりたい

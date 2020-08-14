@@ -2,6 +2,7 @@
 title: "hive(athena)の InputFormat, OutputFormat, SerDe"
 date: 2020-04-18T13:01:07+09:00
 draft: false
+author: sakamossan
 ---
 
 hive の create table は次のようなものである

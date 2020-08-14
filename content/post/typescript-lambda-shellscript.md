@@ -2,6 +2,7 @@
 title: "TypescriptでLambdaのハンドラーを書いてbashでアップロードする"
 date: 2019-08-04T13:16:56+09:00
 draft: false
+author: sakamossan
 ---
 
 普通だとlambdaのアップロードはserverlessなどフレームワークを使うが、package.jsonを別に作りたくない場合があり、デプロイをシェルスクリプトでやったのでメモ

@@ -2,6 +2,7 @@
 title: "的外れな言葉に傷つく前に読む雑記"
 date: 2018-11-20T23:59:56+09:00
 draft: false
+author: dream-yt
 ---
 
 # これは一体

@@ -2,6 +2,7 @@
 title: "LambdaのエラーをコーディングなしでSlack通知までしてもらう設定"
 date: 2018-11-23T14:04:09+09:00
 draft: false
+author: sakamossan
 ---
 
 serverlessを使っている前提

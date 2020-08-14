@@ -2,6 +2,7 @@
 title: "macosでパイプで翻訳してくれるtransコマンドを使う"
 date: 2018-11-23T14:18:17+09:00
 draft: false
+author: sakamossan
 ---
 
 - [soimort/translate-shell: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, DeepL Translator, etc.](https://github.com/soimort/translate-shell)

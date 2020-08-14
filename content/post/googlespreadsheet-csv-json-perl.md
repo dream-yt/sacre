@@ -2,6 +2,7 @@
 title: "GoogleSpreadsheetのデータ(csv)をパパッとjsonにしてスクリプトから使う"
 date: 2018-11-03T17:24:38+09:00
 draft: false
+author: sakamossan
 ---
 
 

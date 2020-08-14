@@ -2,6 +2,7 @@
 title: "AWSでプロジェクトに存在するALBを一覧する"
 date: 2019-01-20T14:57:42+09:00
 draft: false
+author: sakamossan
 ---
 
 ```bash

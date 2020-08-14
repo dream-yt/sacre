@@ -2,6 +2,7 @@
 title: "jqである属性(配列)が空じゃないもののみに絞る"
 date: 2020-08-06T18:42:29+09:00
 draft: false
+author: sakamossan
 ---
 
 `select` と `length` を使えばよい

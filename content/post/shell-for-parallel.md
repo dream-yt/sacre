@@ -2,6 +2,7 @@
 title: "bashのfor文の中身を並列処理させる"
 date: 2020-04-30T18:01:37+09:00
 draft: false
+author: sakamossan
 ---
 
 こんなスクリプトがあったとして

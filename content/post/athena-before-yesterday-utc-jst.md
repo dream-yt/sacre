@@ -2,6 +2,7 @@
 title: "athenaのUNIXタイムスタンプなカラムをJSTで一昨日から昨日の範囲でとる場合"
 date: 2019-01-20T12:25:05+09:00
 draft: false
+author: sakamossan
 ---
 
 下記の図でJSTでの18日〜19日のデータが欲しい場合のこと

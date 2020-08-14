@@ -2,6 +2,7 @@
 title: "lodashのchain/wrapperオブジェクトをjsxで使う"
 date: 2019-03-03T12:16:26+09:00
 draft: false
+author: sakamossan
 ---
 
 lodashのchainに配列を渡すとlodashWrapperオブジェクトが得られる。これはlodashの便利メソッドを色々持っているArrayみたいな機能を持っている

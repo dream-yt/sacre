@@ -2,6 +2,7 @@
 title: "ERROR:root:code for hash md5 was not found"
 date: 2020-02-06T15:08:17+09:00
 draft: false
+author: sakamossan
 ---
 
 僕のPCはbrewがopensslがアップデートするたびにこのエラーがでる。1年毎くらいに発生するので毎回発生するたびに原因と対処方法は忘れている

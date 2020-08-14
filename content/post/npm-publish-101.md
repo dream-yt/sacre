@@ -2,6 +2,7 @@
 title: "npmパッケージング関連コマンド"
 date: 2019-10-20T16:49:23+09:00
 draft: false
+author: sakamossan
 ---
 
 - [CLI documentation | npm Documentation](https://docs.npmjs.com/cli-documentation/)

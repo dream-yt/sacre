@@ -2,6 +2,7 @@
 title: "androidの仮想デバイス(AVD)にadb rootで接続する"
 date: 2020-01-17T15:47:02+09:00
 draft: false
+author: sakamossan
 ---
 
 androidの `/data/` 配下など、rootでしかアクセスできない領域のデータを確認する場合に、

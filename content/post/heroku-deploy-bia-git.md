@@ -2,6 +2,7 @@
 title: "herokuにデプロイ"
 date: 2020-01-27T12:38:15+09:00
 draft: false
+author: sakamossan
 ---
 
 忘れるのでメモ

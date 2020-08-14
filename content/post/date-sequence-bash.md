@@ -2,6 +2,7 @@
 title: "直近1週間の日付をdate形式で取得する"
 date: 2019-06-03T18:01:44+09:00
 draft: false
+author: sakamossan
 ---
 
 seqとdate(mac上で作業しているのでgnu-date)を使う

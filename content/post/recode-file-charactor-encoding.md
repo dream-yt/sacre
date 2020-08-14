@@ -2,6 +2,7 @@
 title: "recodeコマンドでファイルの文字/改行コードを変更する"
 date: 2019-06-19T17:09:44+09:00
 draft: false
+author: sakamossan
 ---
 
 文字コードの変換をするときはiconvを使うことが多かったが、recodeコマンドのほうが便利なことが多い

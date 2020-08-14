@@ -2,6 +2,7 @@
 title: "s3オブジェクトのタグに使える文字"
 date: 2020-03-28T15:46:19+09:00
 draft: false
+author: sakamossan
 ---
 
 パッとググっても出てこなかったので

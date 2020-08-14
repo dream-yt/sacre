@@ -2,6 +2,7 @@
 title: "athena(presto)で、dateとtimeからJSTを得る"
 date: 2019-08-24T16:00:57+09:00
 draft: false
+author: sakamossan
 ---
 
 CloudFrontのログファイルをathenaでテーブルにすると、dateカラムとtimeカラムで別カラムになっている

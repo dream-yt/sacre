@@ -2,6 +2,7 @@
 title: "一定期間で自分がGitHubでマージしたブランチを取得する"
 date: 2019-11-13T12:33:01+09:00
 draft: false
+author: sakamossan
 ---
 
 こんな感じ

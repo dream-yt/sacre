@@ -2,6 +2,7 @@
 title: "200が返ってこないURLを見つけるワンライナー"
 date: 2019-02-28T08:36:33+09:00
 draft: false
+author: sakamossan
 ---
 
 - `./urllist.txt` にはURLのリストが入ってるとして

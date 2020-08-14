@@ -2,6 +2,7 @@
 title: "swiftのメソッドに出てくる _ と #"
 date: 2019-03-16T13:01:39+09:00
 draft: false
+author: sakamossan
 ---
 
 以下のバージョンのreplで動かした

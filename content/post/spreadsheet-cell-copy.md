@@ -2,6 +2,7 @@
 title: "Spreadsheetで下までコピペ"
 date: 2019-01-24T08:58:09+09:00
 draft: false
+author: sakamossan
 ---
 
 同じ関数を相対参照で一番下の行までコピペしたいとき

@@ -2,6 +2,7 @@
 title: "vscodeでエラーメッセージを英語にする"
 date: 2018-12-25T14:59:41+09:00
 draft: false
+author: sakamossan
 ---
 
 表示言語の設定は設定ファイルとは別ファイル管理になっている

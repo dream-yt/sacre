@@ -2,6 +2,7 @@
 title: " .athenaclirc の使い方"
 date: 2019-10-03T07:38:18+09:00
 draft: false
+author: sakamossan
 ---
 
 athenacli というCLIからathenaにクエリできるツールがある  
