@@ -8,6 +8,12 @@ author: sakamossan
 nodejs/express で開発をしていて、画面内の日本語をすべて記号に置き換えたい時があったのでこのようにした
 
 ```js
+const replace = require('stream-replace');
+stream = stream
+    .pipe(replace(/[ぁ-ん]/g, '○'))
+    .pipe(replace(/[ァ-ヶ]/g, '△'))
+    .pipe(replace(/[一-龠]/g, '□'))
+stream.pipe(response);
 ```
 
 こんな見た目になるので、ある程度はなにがなんだかわからなくなる
