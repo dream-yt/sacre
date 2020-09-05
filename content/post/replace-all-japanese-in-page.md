@@ -1,0 +1,21 @@
+---
+title: "ページ内の全ての日本語を○△□に置き換える"
+date: 2020-09-05T12:07:03+09:00
+draft: false
+author: sakamossan
+---
+
+nodejs/express で開発をしていて、画面内の日本語をすべて記号に置き換えたい時があったのでこのようにした
+
+```js
+```
+
+こんな見た目になるので、ある程度はなにがなんだかわからなくなる
+
+![](https://raw.githubusercontent.com/sakamossan/image-bed/master/assets/ba731a1b-fd99-67e7-c2df-114ee42acb47.png)
+
+
+## 参考
+
+- [JavaScriptで漢字を表す正規表現 | You Look Too Cool](https://stabucky.com/wp/archives/7594)
+- [lxe/stream-replace: Replace text in a stream](https://github.com/lxe/stream-replace)

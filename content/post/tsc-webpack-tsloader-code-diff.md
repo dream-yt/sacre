@@ -97,7 +97,7 @@ $ npx webpack --mode none --entry ./index.ts --output ./out/bundle.js
 
 こんなjsが生成された
 
-```js
+<pre>
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -209,7 +209,7 @@ exports.f = function () { return console.log("this is A.f"); };
 
 /***/ })
 /******/ ]);
-```
+<pre>
 
 webpackは依存関係をすべて関数の配列として閉じ込めたjsを吐くようになっているが、
 関数の配列に閉じ込められた部分は tsconfig.json が tsc で出力したものと同じようになっている
