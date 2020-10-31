@@ -13,7 +13,7 @@ Formikに渡すコンポーネントはこんな感じのをつくる
 - 
 
 
-```tsx
+```ts
 const { setStatus, status } = props;
 const { isFileDragging } = status;
 return (
