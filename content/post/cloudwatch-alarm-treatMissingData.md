@@ -1,5 +1,6 @@
 ---
 title: "cloudwatch、アラームの設定 (period, treatMissingData)"
+slug: cloudwatch-alarm-treatMissingData
 date: 2018-12-09T14:07:39+09:00
 draft: false
 author: sakamossan

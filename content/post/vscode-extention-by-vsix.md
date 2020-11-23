@@ -1,5 +1,6 @@
 ---
 title: "vscodeのextensionをvsixファイルからインストールする"
+slug: vscode-extention-by-vsix
 date: 2019-06-02T16:42:13+09:00
 draft: false
 author: sakamossan

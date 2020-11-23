@@ -1,5 +1,6 @@
 ---
 title: "csvsqlを使ってサクッとスプレッドシートからmysqlにデータを入れる"
+slug: spreadsheet-csvsql
 date: 2019-05-22T12:57:56+09:00
 draft: false
 author: sakamossan

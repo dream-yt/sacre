@@ -1,5 +1,6 @@
 ---
 title: "pythonで辞書をdict()したときの値のコピーのされかたがshallow-copyなのを確認"
+slug: python-dict-constructor-shallow-copy
 date: 2020-11-16T19:14:09+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "BigQueryのtransfer_configを表示する"
+slug: bigquery-show-data-transfer-service
 date: 2019-01-29T22:32:51+09:00
 draft: false
 author: sakamossan

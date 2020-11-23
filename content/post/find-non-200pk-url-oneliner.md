@@ -1,5 +1,6 @@
 ---
 title: "200が返ってこないURLを見つけるワンライナー"
+slug: find-non-200pk-url-oneliner
 date: 2019-02-28T08:36:33+09:00
 draft: false
 author: sakamossan

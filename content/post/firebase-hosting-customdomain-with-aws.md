@@ -1,5 +1,6 @@
 ---
 title: "AWSでドメインを取得してfirebase-hostingに設定する"
+slug: firebase-hosting-customdomain-with-aws
 date: 2020-09-03T09:45:26+09:00
 draft: false
 author: sakamossan

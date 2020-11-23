@@ -1,5 +1,6 @@
 ---
 title: "[jest] SyntaxError: The string did not match the expected pattern"
+slug: axios-syntaxerror
 date: 2020-06-07T06:46:32+09:00
 draft: false
 author: sakamossan

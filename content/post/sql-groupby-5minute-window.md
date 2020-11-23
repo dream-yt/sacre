@@ -1,5 +1,6 @@
 ---
 title: "SQLで5分ごとの平均を出す"
+slug: sql-groupby-5minute-window
 date: 2019-12-07T22:26:58+09:00
 draft: false
 author: sakamossan

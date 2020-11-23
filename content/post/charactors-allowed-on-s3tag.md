@@ -1,5 +1,6 @@
 ---
 title: "s3オブジェクトのタグに使える文字"
+slug: charactors-allowed-on-s3tag
 date: 2020-03-28T15:46:19+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: ReactでレンダリングしているページにGoogleAnalyticsを入れる"
+slug: react-render-google-analytics
 date: 2020-09-05T12:03:51+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "nextjs で 404 を返す方法"
+slug: nextjs-ssr-404
 date: 2020-11-21T08:49:54+09:00
 draft: false
 author: sakamossan

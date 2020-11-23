@@ -1,5 +1,6 @@
 ---
 title: "Tag Test"
+slug: tag-test
 date: 2018-11-22T13:08:28+09:00
 draft: true
 author: dream-yt

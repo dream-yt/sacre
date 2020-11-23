@@ -1,5 +1,6 @@
 ---
 title: "emojiで肌とか性別とか髪の色が変えられる仕組み"
+slug: unicode-emoji-modifier-zwj
 date: 2020-08-06T12:05:18+09:00
 draft: false
 author: sakamossan

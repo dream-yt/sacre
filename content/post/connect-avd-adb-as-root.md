@@ -1,5 +1,6 @@
 ---
 title: "androidの仮想デバイス(AVD)にadb rootで接続する"
+slug: connect-avd-adb-as-root
 date: 2020-01-17T15:47:02+09:00
 draft: false
 author: sakamossan

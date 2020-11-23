@@ -1,5 +1,6 @@
 ---
 title: "SlackAPI よりチャンネルとアイコンとユーザ名を変更してポストする"
+slug: slack-get-postmessage-token
 date: 2020-06-05T01:04:32+09:00
 draft: false
 author: sakamossan

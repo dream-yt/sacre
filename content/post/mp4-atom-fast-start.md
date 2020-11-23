@@ -1,5 +1,6 @@
 ---
 title: "mp4のatomとは"
+slug: mp4-atom-fast-start
 date: 2020-08-13T17:03:54+09:00
 draft: false
 author: sakamossan

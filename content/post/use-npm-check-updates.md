@@ -1,5 +1,6 @@
 ---
 title: "package.json の deps を深く考えずに全部upgradeする"
+slug: use-npm-check-updates
 date: 2020-01-11T16:34:44+09:00
 draft: false
 author: sakamossan

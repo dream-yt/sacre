@@ -1,5 +1,6 @@
 ---
 title: "Cannot write file ... because it would overwrite input file."
+slug: vscode-typescript-allowjs-error
 date: 2019-05-18T12:31:40+09:00
 draft: false
 author: sakamossan

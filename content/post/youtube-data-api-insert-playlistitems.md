@@ -1,5 +1,6 @@
 ---
 title: "YouTube DataAPIv3 でプレイリストに動画を追加する"
+slug: youtube-data-api-insert-playlistitems
 date: 2020-04-29T12:41:01+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "watchで出力が変化したら通知が欲しい"
+slug: bash-watch-or-notify
 date: 2019-10-23T15:25:01+09:00
 draft: false
 author: sakamossan

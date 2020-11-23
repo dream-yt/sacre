@@ -1,5 +1,6 @@
 ---
 title: "BOMつきUTF-8とjsについて"
+slug: bom-utf8-and-js
 date: 2020-10-13T12:14:06+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "BigQueryで UNNEST のやりかた"
+slug: bigquery-unnest
 date: 2019-06-26T17:40:01+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "browserifyからwebpackに移行するときのエラー"
+slug: browserify-webpack-amd-commonjs
 date: 2020-01-23T17:46:27+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "【ロゴ作成】RGBとCMYKの色マニュアルを作った時の備忘録"
+slug: logo-colormode
 date: 2018-11-07T12:51:45+09:00
 draft: false
 author: dream-yt

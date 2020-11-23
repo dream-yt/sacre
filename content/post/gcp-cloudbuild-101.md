@@ -1,5 +1,6 @@
 ---
 title: "GCPのCloud Build入門"
+slug: gcp-cloudbuild-101
 date: 2019-07-17T15:47:50+09:00
 draft: false
 author: sakamossan

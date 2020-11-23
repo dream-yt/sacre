@@ -1,5 +1,6 @@
 ---
 title: "sedでファイル内の特定文字列を正規表現で書き換えたい/消したい時"
+slug: sed-inplace-replace
 date: 2020-11-17T08:04:28+09:00
 draft: false
 author: sakamossan

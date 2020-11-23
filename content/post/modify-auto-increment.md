@@ -1,5 +1,6 @@
 ---
 title: "MySQL、 auto incrementの確認と変更"
+slug: modify-auto-increment
 date: 2019-03-15T17:33:58+09:00
 draft: false
 author: sakamossan

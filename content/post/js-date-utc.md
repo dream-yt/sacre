@@ -1,5 +1,6 @@
 ---
 title: "jsでローカルのタイムゾーンに関係なく、日付っぽい文字列をUTCで評価したい"
+slug: js-date-utc
 date: 2019-03-03T19:13:14+09:00
 draft: false
 author: sakamossan

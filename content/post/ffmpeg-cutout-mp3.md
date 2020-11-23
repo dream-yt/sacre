@@ -1,5 +1,6 @@
 ---
 title: "ffmpegを使ってmp3をカットする"
+slug: ffmpeg-cutout-mp3
 date: 2020-09-12T19:22:56+09:00
 draft: false
 author: sakamossan

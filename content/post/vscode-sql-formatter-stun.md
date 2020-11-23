@@ -1,5 +1,6 @@
 ---
 title: "There is no document formatter for 'sql'-files installed"
+slug: vscode-sql-formatter-stun
 date: 2019-01-22T12:52:05+09:00
 draft: false
 author: sakamossan

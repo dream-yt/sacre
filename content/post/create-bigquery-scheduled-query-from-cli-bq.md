@@ -1,5 +1,6 @@
 ---
 title: "BigQuery の Scheduled Query をCLIから登録/参照"
+slug: create-bigquery-scheduled-query-from-cli-bq
 date: 2020-10-07T19:01:35+09:00
 draft: false
 author: sakamossan

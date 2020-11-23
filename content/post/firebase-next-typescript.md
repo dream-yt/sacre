@@ -1,5 +1,6 @@
 ---
 title: "firebase上でtypescriptで書かれたnextjsを動かす"
+slug: firebase-next-typescript
 date: 2019-07-18T09:21:04+09:00
 draft: false
 author: sakamossan

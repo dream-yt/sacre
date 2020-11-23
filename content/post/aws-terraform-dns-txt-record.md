@@ -1,5 +1,6 @@
 ---
 title: "Terraform(AWS)でDNSのTXTレコードを作成する"
+slug: aws-terraform-dns-txt-record
 date: 2020-04-26T22:43:04+09:00
 draft: false
 author: sakamossan

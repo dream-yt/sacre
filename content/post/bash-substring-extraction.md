@@ -1,5 +1,6 @@
 ---
 title: "bashの変数から文字列を取り出す"
+slug: bash-substring-extraction
 date: 2020-06-25T12:22:41+09:00
 draft: false
 author: sakamossan

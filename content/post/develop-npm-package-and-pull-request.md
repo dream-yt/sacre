@@ -1,5 +1,6 @@
 ---
 title: "誰かのnpmパッケージに機能追加して、本番で動作確認してからプルリクエストを出す"
+slug: develop-npm-package-and-pull-request
 date: 2020-05-04T23:19:32+09:00
 draft: false
 author: sakamossan

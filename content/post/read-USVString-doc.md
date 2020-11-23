@@ -1,5 +1,6 @@
 ---
 title: "Unicodeスカラー値と、対になっていないサロゲートコードポイントについてメモ"
+slug: read-USVString-doc
 date: 2020-10-13T14:38:36+09:00
 draft: false
 author: sakamossan

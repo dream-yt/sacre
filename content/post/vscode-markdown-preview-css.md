@@ -1,5 +1,6 @@
 ---
 title: "vscodeのMarkdownPreviewにカスタムCSSをあてる"
+slug: vscode-markdown-preview-css
 date: 2019-09-18T16:25:00+09:00
 draft: false
 author: sakamossan

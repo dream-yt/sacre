@@ -1,5 +1,6 @@
 ---
 title: "webpackで、プロジェクトのファイルを@ディレクトリ配下でimportできるような設定"
+slug: import-with@mark-in-typescript-vscode-jest
 date: 2019-08-25T15:44:56+09:00
 draft: false
 author: sakamossan

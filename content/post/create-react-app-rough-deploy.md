@@ -1,5 +1,6 @@
 ---
 title: "雑create-react-app のデプロイについて"
+slug: create-react-app-rough-deploy
 date: 2020-06-18T10:38:39+09:00
 draft: false
 author: sakamossan

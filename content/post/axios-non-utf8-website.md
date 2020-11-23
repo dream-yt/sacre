@@ -1,5 +1,6 @@
 ---
 title: "UTF-8じゃないサイトをaxiosで取得する"
+slug: axios-non-utf8-website
 date: 2019-11-17T12:34:41+09:00
 draft: false
 author: sakamossan

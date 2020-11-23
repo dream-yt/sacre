@@ -1,5 +1,6 @@
 ---
 title: ".d.ts ファイルを自作してimportする"
+slug: my-project-d-ts-file
 date: 2020-01-12T12:35:03+09:00
 draft: false
 author: sakamossan

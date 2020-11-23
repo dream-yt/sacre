@@ -1,5 +1,6 @@
 ---
 title: "vscodeでエラーメッセージを英語にする"
+slug: vscode-locale-change
 date: 2018-12-25T14:59:41+09:00
 draft: false
 author: sakamossan

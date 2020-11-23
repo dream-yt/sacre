@@ -1,5 +1,6 @@
 ---
 title: "vscodeにペーストすると画像をgithubにあげてくれるvscode-extension-mardown-image-pasteが便利"
+slug: vscode-extension-mardown-image-paste
 date: 2020-01-15T14:48:04+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "cognitoで特定ドメインのGoogleアカウントだけsignUpさせる"
+slug: cognito-presignup-lambda-trigger
 date: 2019-03-23T11:54:52+09:00
 draft: false
 author: sakamossan

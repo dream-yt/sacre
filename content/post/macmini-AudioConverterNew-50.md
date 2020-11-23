@@ -1,5 +1,6 @@
 ---
 title: "AudioConverterNew returned -50"
+slug: macmini-AudioConverterNew-50
 date: 2019-01-02T20:13:32+09:00
 draft: false
 author: sakamossan

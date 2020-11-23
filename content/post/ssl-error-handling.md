@@ -1,5 +1,6 @@
 ---
 title: "SSLエラー(dh key too small)が発生した時の調査/と対応"
+slug: ssl-error-handling
 date: 2019-10-02T14:04:08+09:00
 draft: false
 author: sakamossan

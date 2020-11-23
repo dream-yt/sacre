@@ -1,5 +1,6 @@
 ---
 title: "pythonの__del__"
+slug: python-__del__
 date: 2018-11-26T12:21:22+09:00
 draft: false
 author: sakamossan

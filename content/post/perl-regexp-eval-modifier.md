@@ -1,5 +1,6 @@
 ---
 title: "perlの正規表現、e(eval)オプション"
+slug: perl-regexp-eval-modifier
 date: 2019-03-19T17:12:58+09:00
 draft: false
 author: sakamossan

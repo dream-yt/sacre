@@ -1,5 +1,6 @@
 ---
 title: "React.cloneElementとは"
+slug: react-cloneElement
 date: 2019-03-14T15:03:40+09:00
 draft: false
 author: sakamossan

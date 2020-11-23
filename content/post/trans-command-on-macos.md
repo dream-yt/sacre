@@ -1,5 +1,6 @@
 ---
 title: "macosでパイプで翻訳してくれるtransコマンドを使う"
+slug: trans-command-on-macos
 date: 2018-11-23T14:18:17+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "React/Formikでファイルのドラッグアンドドロップ"
+slug: react-formik-file-dragndrop
 date: 2020-10-31T16:54:36+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "CloudLogging で監査ログを除外する"
+slug: exclude-gcp-audit-log
 date: 2020-06-05T07:08:03+09:00
 draft: false
 author: sakamossan

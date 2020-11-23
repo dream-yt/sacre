@@ -1,5 +1,6 @@
 ---
 title: "jqで変形 (オブジェクト => 配列 => オブジェクト)"
+slug: jq-object-array-object
 date: 2019-11-24T09:18:24+09:00
 draft: false
 author: sakamossan

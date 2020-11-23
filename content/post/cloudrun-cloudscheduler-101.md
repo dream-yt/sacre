@@ -1,5 +1,6 @@
 ---
 title: "cloudrun/cloudscheduler入門"
+slug: cloudrun-cloudscheduler-101
 date: 2020-02-18T09:09:40+09:00
 draft: false
 author: sakamossan

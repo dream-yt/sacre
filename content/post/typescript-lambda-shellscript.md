@@ -1,5 +1,6 @@
 ---
 title: "TypescriptでLambdaのハンドラーを書いてbashでアップロードする"
+slug: typescript-lambda-shellscript
 date: 2019-08-04T13:16:56+09:00
 draft: false
 author: sakamossan

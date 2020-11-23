@@ -1,5 +1,6 @@
 ---
 title: "VSCodeでワークスペースのpythonファイルだけオートフォーマットを無効にする"
+slug: turnoff-vscode-python-autoformat
 date: 2020-10-15T21:53:43+09:00
 draft: false
 author: sakamossan

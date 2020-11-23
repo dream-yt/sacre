@@ -1,5 +1,6 @@
 ---
 title: "fdを使う"
+slug: fd-instead-of-find-101
 date: 2020-02-26T16:34:33+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "GCP の cloudbuild を ローカルで実行する"
+slug: gcp-cloud-build-local
 date: 2020-05-07T08:29:36+09:00
 draft: false
 author: sakamossan

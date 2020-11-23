@@ -1,5 +1,6 @@
 ---
 title: "WithingsAPIのトークンのを取得"
+slug: withings-api-101
 date: 2020-04-16T20:41:10+09:00
 draft: false
 author: sakamossan

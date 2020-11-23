@@ -1,5 +1,6 @@
 ---
 title: "UIにおけるToastとは"
+slug: ui-toast
 date: 2019-03-14T12:43:20+09:00
 draft: false
 author: sakamossan

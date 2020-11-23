@@ -1,5 +1,6 @@
 ---
 title: "IAM権限を絞ったuserでserverlessを使う"
+slug: awscli-create-user-and-policy
 date: 2019-11-02T15:10:56+09:00
 draft: false
 author: sakamossan

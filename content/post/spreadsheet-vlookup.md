@@ -1,5 +1,6 @@
 ---
 title: "VLOOKUPの使い方をメモ"
+slug: spreadsheet-vlookup
 date: 2019-01-23T09:40:35+09:00
 draft: false
 author: sakamossan

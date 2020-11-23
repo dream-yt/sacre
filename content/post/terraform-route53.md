@@ -1,5 +1,6 @@
 ---
 title: "terraformでroute53の管理"
+slug: terraform-route53
 date: 2020-01-16T09:17:45+09:00
 draft: false
 author: sakamossan

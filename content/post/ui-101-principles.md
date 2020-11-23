@@ -1,5 +1,6 @@
 ---
 title: "[読書メモ] インターフェイスデザインのお約束"
+slug: ui-101-principles
 date: 2019-11-18T15:09:20+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "reactでhtml内にjsonを埋め込む"
+slug: react-embedd-json-innerhtml
 date: 2019-10-22T20:53:11+09:00
 draft: false
 author: sakamossan

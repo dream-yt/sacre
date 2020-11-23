@@ -1,5 +1,6 @@
 ---
 title: "mp4dumpでmp4ファイルのメタデータ(atom)をJSONで取得する"
+slug: dump-mp4-atom-in-json
 date: 2020-08-12T18:34:01+09:00
 draft: false
 author: sakamossan

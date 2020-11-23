@@ -1,5 +1,6 @@
 ---
 title: "PythonでTimezone Aware(Jst)なdatetimeを作る"
+slug: python-jst-timezone-aware-datetime
 date: 2019-01-12T23:42:03+09:00
 draft: false
 author: sakamossan

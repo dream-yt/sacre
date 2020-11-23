@@ -1,5 +1,6 @@
 ---
 title: "ERROR: (gcloud.beta.run.deploy) PERMISSION_DENIED"
+slug: cloudrun-error-permission-denied
 date: 2020-02-17T09:08:49+09:00
 draft: false
 author: sakamossan

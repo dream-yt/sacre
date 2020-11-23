@@ -1,5 +1,6 @@
 ---
 title: "httpリクエスト(v1.0で)のProxy"
+slug: http-10-proxy
 date: 2020-08-30T18:59:16+09:00
 draft: false
 author: sakamossan

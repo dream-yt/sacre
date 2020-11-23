@@ -1,5 +1,6 @@
 ---
 title: " .athenaclirc の使い方"
+slug: athenacli-rcfile
 date: 2019-10-03T07:38:18+09:00
 draft: false
 author: sakamossan

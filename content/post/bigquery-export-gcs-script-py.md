@@ -1,5 +1,6 @@
 ---
 title: "bigqueryのクエリ結果をgcsに出力するスクリプト"
+slug: bigquery-export-gcs-script-py
 date: 2019-08-10T16:24:49+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "シェルスクリプトで変数が未定義かを確認する"
+slug: bash-non-zero-variable
 date: 2020-02-12T09:06:11+09:00
 draft: false
 author: sakamossan

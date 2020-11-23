@@ -1,5 +1,6 @@
 ---
 title: "raspberry-piに固定IPを設定する"
+slug: raspberry-pi-static-ip
 date: 2019-05-06T22:12:51+09:00
 draft: false
 author: sakamossan

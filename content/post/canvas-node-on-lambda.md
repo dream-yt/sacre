@@ -1,5 +1,6 @@
 ---
 title: "node-canvasをlambdaで動かす"
+slug: canvas-node-on-lambda
 date: 2019-06-22T13:00:03+09:00
 draft: false
 author: sakamossan

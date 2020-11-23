@@ -1,5 +1,6 @@
 ---
 title: "m3u8とhls"
+slug: m3u8andhls
 date: 2019-12-24T19:08:10+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "PostgreSQLで特定期間の日数/時間数などを数える"
+slug: psql-day-count
 author: iruka
 date: 2019-03-16T17:00:00+09:00
 draft: false

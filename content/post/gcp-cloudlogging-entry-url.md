@@ -1,5 +1,6 @@
 ---
 title: "LogEntry からそのログ周辺へのCloudLogging のURLを生成する"
+slug: gcp-cloudlogging-entry-url
 date: 2020-06-04T16:21:16+09:00
 draft: false
 author: sakamossan

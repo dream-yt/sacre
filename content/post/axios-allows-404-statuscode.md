@@ -1,5 +1,6 @@
 ---
 title: "axiosでステータスコード404のときに例外をあげなくする"
+slug: axios-allows-404-statuscode
 date: 2019-11-17T12:54:35+09:00
 draft: false
 author: sakamossan

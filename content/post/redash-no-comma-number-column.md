@@ -1,5 +1,6 @@
 ---
 title: "redashで数値カラムからカンマを取り除く"
+slug: redash-no-comma-number-column
 date: 2019-06-12T16:15:50+09:00
 draft: false
 author: sakamossan

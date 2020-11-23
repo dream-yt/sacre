@@ -1,5 +1,6 @@
 ---
 title: "CloudFunction で CloudBuild をトリガーする "
+slug: gcp-trigger-cloudbuild-via-cloudfunction
 date: 2020-06-01T16:31:19+09:00
 draft: false
 author: sakamossan

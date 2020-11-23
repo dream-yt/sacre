@@ -1,5 +1,6 @@
 ---
 title: "C++のビルドステップと静的/動的ライブラリについて"
+slug: cpp-buildstep-and-static-dynamic
 date: 2020-08-07T16:39:09+09:00
 draft: false
 author: sakamossan

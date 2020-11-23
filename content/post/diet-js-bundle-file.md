@@ -1,5 +1,6 @@
 ---
 title: "jsファイルの容量削減 lodash/jQuery"
+slug: diet-js-bundle-file
 date: 2020-07-25T00:01:24+09:00
 draft: false
 author: sakamossan

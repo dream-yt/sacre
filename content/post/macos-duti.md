@@ -1,5 +1,6 @@
 ---
 title: "macosでデフォルトで開くアプリをコマンドライン(duti)で変更する"
+slug: macos-duti
 date: 2019-09-12T12:29:58+09:00
 draft: false
 author: sakamossan

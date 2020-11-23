@@ -1,5 +1,6 @@
 ---
 title: "React.SuspenseとsetTimeoutで最小限の非同期コンポーネントをつくる"
+slug: react-suspense-settimeout-minimum
 date: 2020-11-05T15:07:42+09:00
 draft: false
 author: sakamossan

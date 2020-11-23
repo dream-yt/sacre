@@ -1,5 +1,6 @@
 ---
 title: "homebrewで過去のversionをインストールする"
+slug: install-old-package-with-brew
 date: 2019-04-04T15:22:47+09:00
 draft: false
 author: sakamossan

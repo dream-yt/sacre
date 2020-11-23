@@ -1,5 +1,6 @@
 ---
 title: "Start Gcp Free Instance"
+slug: start-gcp-free-instance
 date: 2019-12-25T00:13:24+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "alpine に gcloud をインストールする Dockerfile"
+slug: install-gcloud-to-alpine
 date: 2020-02-21T09:23:30+09:00
 draft: false
 author: sakamossan

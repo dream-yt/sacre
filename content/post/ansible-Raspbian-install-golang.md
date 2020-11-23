@@ -1,5 +1,6 @@
 ---
 title: "[ansible x Raspbian] golang のインストール"
+slug: ansible-Raspbian-install-golang
 date: 2020-08-28T00:26:50+09:00
 draft: false
 author: sakamossan

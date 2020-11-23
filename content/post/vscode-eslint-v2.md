@@ -1,5 +1,6 @@
 ---
 title: "vscode-eslint(v2)の設定をする"
+slug: vscode-eslint-v2
 date: 2020-04-10T15:58:01+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "vscodeからdockerコンテナ内でperl -wcして文法チェック"
+slug: vscode-perl-docker-linter
 date: 2018-12-12T08:12:58+09:00
 draft: false
 author: sakamossan

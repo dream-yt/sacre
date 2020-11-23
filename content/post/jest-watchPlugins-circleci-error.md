@@ -1,5 +1,6 @@
 ---
 title: "circleci上でjest-watch-typeaheadがロードできずエラーになる場合"
+slug: jest-watchPlugins-circleci-error
 date: 2019-04-27T12:38:51+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "テキストに不可視な文字が入っている場合の対処"
+slug: invisible-char-in-textfile
 date: 2019-02-14T17:11:00+09:00
 draft: false
 author: sakamossan

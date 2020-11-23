@@ -1,5 +1,6 @@
 ---
 title: "GoogleSpreadsheetのデータ(csv)をパパッとjsonにしてスクリプトから使う"
+slug: googlespreadsheet-csv-json-perl
 date: 2018-11-03T17:24:38+09:00
 draft: false
 author: sakamossan

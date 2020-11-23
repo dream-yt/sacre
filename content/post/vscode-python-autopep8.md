@@ -1,5 +1,6 @@
 ---
 title: "vscodeのformatOnSaveでPython/autopep8を使って整形する"
+slug: vscode-python-autopep8
 date: 2020-11-07T22:09:07+09:00
 draft: false
 author: sakamossan

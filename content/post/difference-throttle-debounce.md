@@ -1,5 +1,6 @@
 ---
 title: "throttle と debounce の違い"
+slug: difference-throttle-debounce
 date: 2020-10-30T18:39:11+09:00
 draft: false
 author: sakamossan

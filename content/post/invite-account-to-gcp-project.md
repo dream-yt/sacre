@@ -1,5 +1,6 @@
 ---
 title: "GCPのプロジェクトにユーザを招待する"
+slug: invite-account-to-gcp-project
 date: 2020-06-03T18:04:08+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "ngrokを使いはじめる"
+slug: start-ngrok
 date: 2019-10-30T12:02:06+09:00
 draft: false
 author: sakamossan

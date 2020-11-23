@@ -1,5 +1,6 @@
 ---
 title: "serverless-kms-secrets を導入する手順2"
+slug: serverless-kms-secrets-102
 date: 2019-09-07T18:28:17+09:00
 draft: false
 author: sakamossan

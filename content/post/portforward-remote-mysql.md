@@ -1,5 +1,6 @@
 ---
 title: "ポートフォワードしてリモートのMySQLに接続する"
+slug: portforward-remote-mysql
 date: 2020-02-27T16:50:22+09:00
 draft: false
 author: sakamossan

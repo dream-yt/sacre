@@ -1,5 +1,6 @@
 ---
 title: "swiftのメソッドに出てくる _ と #"
+slug: swift-function-_sharp
 date: 2019-03-16T13:01:39+09:00
 draft: false
 author: sakamossan

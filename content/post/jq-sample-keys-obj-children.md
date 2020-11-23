@@ -1,5 +1,6 @@
 ---
 title: "jq での変形例 (keys[]でのオブジェクト=>オブジェクト編) "
+slug: jq-sample-keys-obj-children
 date: 2018-11-03T17:45:49+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "StackDriverLoggingのログへのクエリ入門"
+slug: stack-driver-log-query-101
 date: 2019-11-26T18:46:57+09:00
 draft: false
 author: sakamossan

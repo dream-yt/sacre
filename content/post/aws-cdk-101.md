@@ -1,5 +1,6 @@
 ---
 title: "aws-cdkを使い始めるまでメモ"
+slug: aws-cdk-101
 date: 2018-11-17T22:30:32+09:00
 draft: false
 author: sakamossan

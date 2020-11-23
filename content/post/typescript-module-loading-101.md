@@ -1,5 +1,6 @@
 ---
 title: "TypeScriptのモジュール読み込みについて"
+slug: typescript-module-loading-101
 date: 2020-08-28T18:45:04+09:00
 draft: true
 author: sakamossan

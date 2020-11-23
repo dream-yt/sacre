@@ -1,5 +1,6 @@
 ---
 title: "Raspberry-Piのヘッドレスセットアップsshまで"
+slug: raspbian-stretch-setup
 date: 2019-05-06T20:57:43+09:00
 draft: false
 author: sakamossan

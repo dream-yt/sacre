@@ -1,5 +1,6 @@
 ---
 title: "nextjsのSSGでhtmlでredirect"
+slug: nextjs-ssg-redirect-metarefresh
 date: 2020-11-20T18:50:25+09:00
 draft: false
 author: sakamossan

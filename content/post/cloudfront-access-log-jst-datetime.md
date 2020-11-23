@@ -1,5 +1,6 @@
 ---
 title: "athena(presto)で、dateとtimeからJSTを得る"
+slug: cloudfront-access-log-jst-datetime
 date: 2019-08-24T16:00:57+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "serverless-webpack のプロジェクトで serverless-offline 実行時に NODE_ENV を設定する"
+slug: serverless-webpack-offline-NODE_ENV
 date: 2019-08-25T15:06:15+09:00
 draft: false
 author: sakamossan

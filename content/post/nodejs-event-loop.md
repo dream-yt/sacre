@@ -1,5 +1,6 @@
 ---
 title: "nodejsのEvent Loopについておおまかなメモ"
+slug: nodejs-event-loop
 date: 2020-04-19T13:35:05+09:00
 draft: false
 author: sakamossan

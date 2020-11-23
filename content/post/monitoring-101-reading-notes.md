@@ -1,5 +1,6 @@
 ---
 title: "入門監視の読書メモ"
+slug: monitoring-101-reading-notes
 date: 2019-05-19T15:19:54+09:00
 draft: false
 author: sakamossan

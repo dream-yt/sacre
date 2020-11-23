@@ -1,5 +1,6 @@
 ---
 title: "typescript で express を watch しながら開発する"
+slug: typescript-express-watch-develop
 date: 2020-05-06T21:41:26+09:00
 draft: false
 author: sakamossan

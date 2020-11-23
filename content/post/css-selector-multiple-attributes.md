@@ -1,5 +1,6 @@
 ---
 title: "複数属性をもつ要素を指定するCSSセレクタ"
+slug: css-selector-multiple-attributes
 date: 2020-04-27T10:23:34+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "nodejs/typescriptでSNSイベントからgetMetricWidgetImage(画像)を取得する"
+slug: node-getMetricWidgetImageWithSNSEvent
 date: 2019-08-04T13:25:09+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "hostileで/etc/hostsをテキスト管理する"
+slug: etc-hosts-hostile
 date: 2019-01-07T17:24:25+09:00
 draft: false
 author: sakamossan

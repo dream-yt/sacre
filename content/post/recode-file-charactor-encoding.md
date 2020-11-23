@@ -1,5 +1,6 @@
 ---
 title: "recodeコマンドでファイルの文字/改行コードを変更する"
+slug: recode-file-charactor-encoding
 date: 2019-06-19T17:09:44+09:00
 draft: false
 author: sakamossan

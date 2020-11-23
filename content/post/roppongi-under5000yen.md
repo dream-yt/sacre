@@ -1,5 +1,6 @@
 ---
 title: "税抜き5000円で宴会のコースが取れる六本木のお店"
+slug: roppongi-under5000yen
 date: 2019-03-10T16:35:58+09:00
 draft: false
 author: sakamossan

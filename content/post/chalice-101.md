@@ -1,5 +1,6 @@
 ---
 title: "AWS Chalice でデプロイまで"
+slug: chalice-101
 date: 2020-11-07T00:20:37+09:00
 draft: false
 author: sakamossan

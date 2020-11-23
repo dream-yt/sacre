@@ -1,5 +1,6 @@
 ---
 title: "Spreadsheetで日付を文字列フォーマットして表示する"
+slug: spreadsheet-date-format
 date: 2019-04-26T15:14:18+09:00
 draft: false
 author: sakamossan

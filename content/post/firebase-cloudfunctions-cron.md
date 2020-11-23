@@ -1,5 +1,6 @@
 ---
 title: "firebaseでスケジュール(cron)実行"
+slug: firebase-cloudfunctions-cron
 date: 2019-11-09T17:14:52+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "csvからsqliteのdbファイルを作成/操作"
+slug: csv2sqlite-with-csvsql
 date: 2019-05-25T13:44:24+09:00
 draft: false
 author: sakamossan

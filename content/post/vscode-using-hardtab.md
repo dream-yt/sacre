@@ -1,5 +1,6 @@
 ---
 title: "VS Codeでインデントをハードタブにする"
+slug: vscode-using-hardtab
 date: 2020-11-07T21:59:28+09:00
 draft: false
 author: sakamossan

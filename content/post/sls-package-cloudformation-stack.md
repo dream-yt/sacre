@@ -1,5 +1,6 @@
 ---
 title: "serverless deploy で生成されるリソースを事前に確認する"
+slug: sls-package-cloudformation-stack
 date: 2018-12-08T23:48:03+09:00
 draft: false
 author: sakamossan

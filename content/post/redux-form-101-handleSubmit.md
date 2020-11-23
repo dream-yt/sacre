@@ -1,5 +1,6 @@
 ---
 title: "redux-form (handleSubmit) 入門"
+slug: redux-form-101-handleSubmit
 date: 2019-06-16T10:23:17+09:00
 draft: false
 author: sakamossan

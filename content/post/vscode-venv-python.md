@@ -1,5 +1,6 @@
 ---
 title: "vscode で python の virtualenv を認識させる"
+slug: vscode-venv-python
 date: 2020-11-07T09:54:43+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "fdでsrc配下のjsファイルをtsに一括でrenameする"
+slug: fd-rename-js-ts-in-project
 date: 2020-08-17T17:07:35+09:00
 draft: false
 author: sakamossan

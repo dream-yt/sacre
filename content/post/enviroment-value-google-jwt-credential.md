@@ -1,5 +1,6 @@
 ---
 title: "環境変数にセットしてあるGoogleのJWTを使って認証する"
+slug: enviroment-value-google-jwt-credential
 date: 2018-12-04T10:05:39+09:00
 draft: false
 author: sakamossan

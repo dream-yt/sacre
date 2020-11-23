@@ -1,5 +1,6 @@
 ---
 title: "SameSite Cookie とは"
+slug: samesite-cookie
 date: 2019-07-11T12:25:34+09:00
 draft: false
 author: sakamossan

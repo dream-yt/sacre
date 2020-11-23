@@ -1,5 +1,6 @@
 ---
 title: "macで動画のビットレートを変更したい"
+slug: ffmpeg-for-bitrate
 date: 2019-02-13T15:20:54+09:00
 draft: false
 author: sakamossan

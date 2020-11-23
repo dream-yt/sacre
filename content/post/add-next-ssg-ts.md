@@ -1,5 +1,6 @@
 ---
 title: "既存のtypescriptプロジェクトにnextjsのSSGを導入する"
+slug: add-next-ssg-ts
 date: 2020-09-06T15:43:45+09:00
 draft: false
 author: sakamossan

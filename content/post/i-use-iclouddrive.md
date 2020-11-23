@@ -1,5 +1,6 @@
 ---
 title: "iCloudドライブを使うようになった"
+slug: i-use-iclouddrive
 date: 2020-08-30T17:45:09+09:00
 draft: false
 author: sakamossan

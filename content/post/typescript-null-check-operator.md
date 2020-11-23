@@ -1,5 +1,6 @@
 ---
 title: "typescriptでのnullチェック"
+slug: typescript-null-check-operator
 date: 2019-06-30T13:59:54+09:00
 draft: false
 author: sakamossan

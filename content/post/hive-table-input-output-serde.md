@@ -1,5 +1,6 @@
 ---
 title: "hive(athena)の InputFormat, OutputFormat, SerDe"
+slug: hive-table-input-output-serde
 date: 2020-04-18T13:01:07+09:00
 draft: false
 author: sakamossan

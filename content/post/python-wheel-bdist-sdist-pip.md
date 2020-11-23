@@ -1,5 +1,6 @@
 ---
 title: "pythonのbdistとsdistとwheelファイルについて"
+slug: python-wheel-bdist-sdist-pip
 date: 2020-11-19T20:38:40+09:00
 draft: false
 author: sakamossan

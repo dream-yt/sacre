@@ -1,5 +1,6 @@
 ---
 title: "MySQL の CREATE TABLE から BigQuery のスキーマ(json)を生成する"
+slug: generate-bigquery-schema-from-mysql-create-table
 date: 2020-09-11T13:43:11+09:00
 draft: false
 author: sakamossan

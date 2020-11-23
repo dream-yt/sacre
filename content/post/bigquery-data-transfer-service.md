@@ -1,5 +1,6 @@
 ---
 title: "Bigquery Data Transfer Service について"
+slug: bigquery-data-transfer-service
 date: 2019-01-29T08:43:23+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "/usr/local/Cellar/pyenv/1.2.8/libexec/pyenv: No such file or directory"
+slug: libexec-pyenv-no-such-file
 date: 2020-08-12T11:49:42+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "ts-migrateをつかった"
+slug: ts-migrate-101
 date: 2020-08-26T14:08:12+09:00
 draft: false
 ---

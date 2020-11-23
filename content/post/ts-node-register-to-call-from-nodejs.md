@@ -1,5 +1,6 @@
 ---
 title: "nodejsのコードからtypescriptをrequireする"
+slug: ts-node-register-to-call-from-nodejs
 date: 2019-10-14T14:01:42+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "cookiecutterでtypescript/jest/eslintのテンプレートを作った"
+slug: cookiecutter-typescript-jest-eslint
 date: 2020-09-06T14:00:34+09:00
 draft: false
 author: sakamossan

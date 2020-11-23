@@ -1,5 +1,6 @@
 ---
 title: "athenaのUNIXタイムスタンプなカラムをJSTで一昨日から昨日の範囲でとる場合"
+slug: athena-before-yesterday-utc-jst
 date: 2019-01-20T12:25:05+09:00
 draft: false
 author: sakamossan

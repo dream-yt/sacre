@@ -1,5 +1,6 @@
 ---
 title: "circleciのcronトリガーでfirebase/hostingをアップデートする"
+slug: firebase-circleci-cron-deploy
 date: 2019-11-04T14:26:47+09:00
 draft: false
 author: sakamossan

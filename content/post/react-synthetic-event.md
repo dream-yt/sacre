@@ -1,5 +1,6 @@
 ---
 title: "React の Synthetic Event"
+slug: react-synthetic-event
 date: 2019-07-01T09:34:06+09:00
 draft: false
 author: sakamossan

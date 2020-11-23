@@ -1,5 +1,6 @@
 ---
 title: "ALBの直近1時間のリクエスト数をawscliで取得する"
+slug: alb-request-count-by-awscli
 date: 2019-01-20T15:05:24+09:00
 draft: false
 author: sakamossan

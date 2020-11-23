@@ -1,5 +1,6 @@
 ---
 title: "firestoreからbigqueryへのexport手順"
+slug: bigquery-to-firestore
 date: 2019-11-12T18:56:11+09:00
 draft: false
 author: sakamossan

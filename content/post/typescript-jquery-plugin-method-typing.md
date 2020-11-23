@@ -1,5 +1,6 @@
 ---
 title: "TypeScriptでjQueryプラグインにて追加した関数の型定義"
+slug: typescript-jquery-plugin-method-typing
 date: 2020-08-17T18:22:13+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "package.jsonの古いファイルをいっぺんに更新する"
+slug: update-npm-outdated
 date: 2019-07-15T18:50:46+09:00
 draft: false
 author: sakamossan

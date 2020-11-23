@@ -1,5 +1,6 @@
 ---
 title: "psコマンドでメモリ使用量, CPU使用量でソートする"
+slug: ps-mem-cpu-sort
 date: 2020-02-12T09:37:33+09:00
 draft: false
 author: sakamossan

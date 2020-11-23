@@ -1,5 +1,6 @@
 ---
 title: "jqで改行区切りなど連続したjsonを配列にする"
+slug: jq-list-json-into-array
 date: 2019-09-18T22:47:34+09:00
 draft: false
 author: sakamossan

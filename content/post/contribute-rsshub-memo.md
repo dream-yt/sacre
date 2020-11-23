@@ -1,5 +1,6 @@
 ---
 title: "RSSHubにPR出すときのメモ"
+slug: contribute-rsshub-memo
 date: 2020-03-29T20:45:55+09:00
 draft: false
 author: sakamossan

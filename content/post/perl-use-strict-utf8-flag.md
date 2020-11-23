@@ -1,5 +1,6 @@
 ---
 title: "perlのstrict/utf8フラグについて"
+slug: perl-use-strict-utf8-flag
 date: 2019-07-30T14:42:22+09:00
 draft: false
 author: sakamossan

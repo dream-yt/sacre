@@ -1,5 +1,6 @@
 ---
 title: "AWS、LambdaまわりのIAM入門"
+slug: aws-iam-101
 date: 2019-07-28T09:54:35+09:00
 draft: false
 author: sakamossan

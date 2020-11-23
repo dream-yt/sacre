@@ -1,5 +1,6 @@
 ---
 title: "サービスアカウントで認証してGoogleSpreadsheetからデータを取得"
+slug: spreadsheet-via-service-account
 date: 2018-12-01T16:30:16+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "git bisect を使う"
+slug: git-bisect-101
 date: 2020-09-03T10:50:22+09:00
 draft: false
 author: sakamossan

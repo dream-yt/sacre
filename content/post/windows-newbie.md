@@ -1,5 +1,6 @@
 ---
 title: "Windows初心者の設定"
+slug: windows-newbie
 date: 2020-03-14T12:07:18+09:00
 draft: false
 author: sakamossan

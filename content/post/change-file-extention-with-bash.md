@@ -1,5 +1,6 @@
 ---
 title: "bashでファイルの拡張子を一括変更する"
+slug: change-file-extention-with-bash
 date: 2019-07-16T11:23:13+09:00
 draft: false
 author: sakamossan

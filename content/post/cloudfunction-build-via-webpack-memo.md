@@ -1,5 +1,6 @@
 ---
 title: "Firebase Cloudfunction のデプロイに webpack を使ってビルドしようとするメモ"
+slug: cloudfunction-build-via-webpack-memo
 date: 2020-05-31T19:03:18+09:00
 draft: false
 author: sakamossan

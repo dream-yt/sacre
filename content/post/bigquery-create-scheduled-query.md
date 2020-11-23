@@ -1,5 +1,6 @@
 ---
 title: "BigQuery の Scheduled Query を設定する方法"
+slug: bigquery-create-scheduled-query
 date: 2019-04-07T13:48:43+09:00
 draft: false
 author: sakamossan

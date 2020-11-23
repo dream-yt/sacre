@@ -1,5 +1,6 @@
 ---
 title: "mongodump/mongoexportのやりかた"
+slug: mongodump-101
 date: 2018-12-14T13:11:58+09:00
 draft: false
 author: sakamossan

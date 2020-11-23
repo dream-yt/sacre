@@ -1,5 +1,6 @@
 ---
 title: "lodashのchain/wrapperオブジェクトをjsxで使う"
+slug: lodash-wrapper-jsx
 date: 2019-03-03T12:16:26+09:00
 draft: false
 author: sakamossan

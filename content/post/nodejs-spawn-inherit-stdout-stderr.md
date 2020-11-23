@@ -1,5 +1,6 @@
 ---
 title: "nodejsで標準入出力/エラーを共有した子プロセスを作る"
+slug: nodejs-spawn-inherit-stdout-stderr
 date: 2020-02-14T11:26:41+09:00
 draft: false
 author: sakamossan

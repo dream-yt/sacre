@@ -1,5 +1,6 @@
 ---
 title: "webpack+ts-loaderとtscで同じコードをトランスパイルした結果の違いをみてみる"
+slug: tsc-webpack-tsloader-code-diff
 date: 2020-08-29T17:19:29+09:00
 draft: false
 author: sakamossan

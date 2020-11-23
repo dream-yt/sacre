@@ -1,5 +1,6 @@
 ---
 title: "macosでディスクがいっぱいになったとき、大きくて使わないファイルを探す"
+slug: macos-find-bigfile
 date: 2020-01-08T12:34:39+09:00
 draft: false
 author: sakamossan

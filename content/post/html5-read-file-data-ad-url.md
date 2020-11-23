@@ -1,5 +1,6 @@
 ---
 title: "html5のFileオブジェクトからimg/videoタグで使えるURLを取得する"
+slug: html5-read-file-data-ad-url
 date: 2020-11-04T15:27:45+09:00
 draft: false
 author: sakamossan

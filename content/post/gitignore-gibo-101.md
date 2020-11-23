@@ -1,5 +1,6 @@
 ---
 title: "gitignoreを生成してくれるgiboを使う"
+slug: gitignore-gibo-101
 date: 2020-08-29T12:29:04+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "typescriptで特定ファイルのコンパイルエラーだけdisableする"
+slug: typescript-ts-ignore
 date: 2019-02-23T19:57:57+09:00
 draft: false
 author: sakamossan

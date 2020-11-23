@@ -1,5 +1,6 @@
 ---
 title: "@types/nodeを使う"
+slug: use-at-types-node
 date: 2019-10-12T13:05:11+09:00
 draft: false
 author: sakamossan

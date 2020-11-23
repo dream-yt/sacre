@@ -1,5 +1,6 @@
 ---
 title: "flexで横並びカードのレイアウト最小限"
+slug: css-flex-horizontal-card
 date: 2020-09-16T09:22:10+09:00
 draft: false
 author: sakamossan

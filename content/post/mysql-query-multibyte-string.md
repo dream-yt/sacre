@@ -1,5 +1,6 @@
 ---
 title: "MySQLでマルチバイト文字が入ったレコードだけ取得する"
+slug: mysql-query-multibyte-string
 date: 2020-09-23T16:56:21+09:00
 draft: false
 author: sakamossan

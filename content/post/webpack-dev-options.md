@@ -1,5 +1,6 @@
 ---
 title: "webpackの開発用に便利なオプション"
+slug: webpack-dev-options
 date: 2020-02-26T18:26:57+09:00
 draft: false
 author: sakamossan

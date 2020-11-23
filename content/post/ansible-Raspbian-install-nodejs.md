@@ -1,5 +1,6 @@
 ---
 title: "[ansible x Raspbian] nodejs のインストール"
+slug: ansible-Raspbian-install-nodejs
 date: 2020-08-28T00:07:02+09:00
 draft: false
 author: sakamossan

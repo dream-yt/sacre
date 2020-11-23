@@ -1,5 +1,6 @@
 ---
 title: "serverlessのcors対応"
+slug: serverless-cors-101
 date: 2019-03-09T19:11:52+09:00
 draft: false
 author: sakamossan

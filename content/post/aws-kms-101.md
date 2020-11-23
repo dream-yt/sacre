@@ -1,5 +1,6 @@
 ---
 title: "AWS Key Management Service (KMS) 入門"
+slug: aws-kms-101
 date: 2019-08-17T16:43:19+09:00
 draft: false
 author: sakamossan

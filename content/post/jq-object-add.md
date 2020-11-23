@@ -1,5 +1,6 @@
 ---
 title: "jq変形 {配列 => IDをキーとするオブジェクト}"
+slug: jq-object-add
 date: 2019-07-03T15:30:19+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "覚えにくくてもいいようなランダム文字列を生成する"
+slug: random-string-gen-pwgen
 date: 2019-03-25T16:56:27+09:00
 draft: false
 author: sakamossan

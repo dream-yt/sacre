@@ -1,5 +1,6 @@
 ---
 title: "ads.txt入門"
+slug: ads-txt-101
 date: 2019-06-27T17:17:06+09:00
 draft: false
 author: sakamossan

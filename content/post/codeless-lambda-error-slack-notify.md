@@ -1,5 +1,6 @@
 ---
 title: "LambdaのエラーをコーディングなしでSlack通知までしてもらう設定"
+slug: codeless-lambda-error-slack-notify
 date: 2018-11-23T14:04:09+09:00
 draft: false
 author: sakamossan

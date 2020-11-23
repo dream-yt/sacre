@@ -1,5 +1,6 @@
 ---
 title: "commitを別の作業branchへ移動する方法"
+slug: git-cherry-pick
 date: 2018-11-28T22:27:25+09:00
 draft: false
 author: dream-yt

@@ -1,5 +1,6 @@
 ---
 title: "dockerコンテナ内でstraceを使う"
+slug: strace-in-docker-container
 date: 2018-10-24T23:36:47+09:00
 author: sakamossan
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "rrwebがバグの調査に使えそうというメモ"
+slug: rrweb-usecase-for-debugging
 date: 2020-08-06T15:48:59+09:00
 draft: false
 author: sakamossan

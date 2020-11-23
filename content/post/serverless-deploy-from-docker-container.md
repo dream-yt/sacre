@@ -1,5 +1,6 @@
 ---
 title: "serverless deploy を amazonlinuxイメージで行う"
+slug: serverless-deploy-from-docker-container
 date: 2019-08-05T11:32:41+09:00
 draft: false
 author: sakamossan

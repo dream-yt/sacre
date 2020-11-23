@@ -1,5 +1,6 @@
 ---
 title: "GoogleSpreadSheetへBigQueryからクエリできるようにする"
+slug: query-google-spreadsheet-with-bigquery
 date: 2019-02-24T17:28:42+09:00
 draft: false
 author: sakamossan

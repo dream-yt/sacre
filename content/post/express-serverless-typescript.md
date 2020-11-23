@@ -1,5 +1,6 @@
 ---
 title: "lambda/typescriptでexpressを使う"
+slug: express-serverless-typescript
 date: 2019-02-23T12:02:54+09:00
 draft: false
 author: sakamossan

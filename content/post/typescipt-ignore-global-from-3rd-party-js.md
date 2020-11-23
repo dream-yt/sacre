@@ -1,5 +1,6 @@
 ---
 title: "TypeScriptで外部スクリプトからロードされたグローバル変数のエラーを無視する"
+slug: typescipt-ignore-global-from-3rd-party-js
 date: 2020-08-17T18:11:09+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "runtime-only build of Vue where the template compiler is not available"
+slug: vue-jest-runtime-only-build-warn
 date: 2020-04-14T12:15:24+09:00
 draft: false
 author: sakamossan

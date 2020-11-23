@@ -1,5 +1,6 @@
 ---
 title: "herokuにデプロイ"
+slug: heroku-deploy-bia-git
 date: 2020-01-27T12:38:15+09:00
 draft: false
 author: sakamossan

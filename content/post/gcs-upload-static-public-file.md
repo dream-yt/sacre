@@ -1,5 +1,6 @@
 ---
 title: "nodejsで Google Cloud Storage にファイルをアップロードしてCDNで配信する"
+slug: gcs-upload-static-public-file
 date: 2019-12-04T14:47:44+09:00
 draft: false
 author: sakamossan

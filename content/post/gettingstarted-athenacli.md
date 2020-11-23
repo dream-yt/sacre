@@ -1,5 +1,6 @@
 ---
 title: "athenacliを使う"
+slug: gettingstarted-athenacli
 date: 2018-11-03T18:11:44+09:00
 draft: false
 author: sakamossan

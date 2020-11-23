@@ -1,5 +1,6 @@
 ---
 title: "TypeScript の Type Guard を使う"
+slug: ts-type-guard
 date: 2019-11-01T08:03:40+09:00
 draft: false
 author: sakamossan

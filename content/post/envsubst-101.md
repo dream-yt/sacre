@@ -1,5 +1,6 @@
 ---
 title: "envsubstを使って環境変数だけでサクッとテンプレート出力する"
+slug: envsubst-101
 date: 2019-03-05T15:20:05+09:00
 draft: false
 author: sakamossan

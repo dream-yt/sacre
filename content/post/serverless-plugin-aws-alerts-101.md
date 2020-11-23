@@ -1,5 +1,6 @@
 ---
 title: "serverless-plugin-aws-alertsでエラーを監視"
+slug: serverless-plugin-aws-alerts-101
 date: 2020-07-05T20:48:54+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "cエクステンションを使っているpythonパッケージをlambdaで動くようビルドする"
+slug: build-python-wheel-for-lambda
 date: 2020-11-20T06:44:01+09:00
 draft: false
 author: sakamossan

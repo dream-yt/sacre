@@ -1,5 +1,6 @@
 ---
 title: "rsyncでディレクトリをコピーする"
+slug: rsync-clone-directory
 date: 2019-07-26T09:34:34+09:00
 draft: false
 author: sakamossan

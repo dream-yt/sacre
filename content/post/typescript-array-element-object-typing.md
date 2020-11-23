@@ -1,5 +1,6 @@
 ---
 title: "TypeScriptで、「この配列の要素がキーになってるオブジェクト」という型を定義する"
+slug: typescript-array-element-object-typing
 date: 2020-10-28T12:41:48+09:00
 draft: false
 author: sakamossan

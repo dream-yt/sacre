@@ -1,5 +1,6 @@
 ---
 title: "ブログ文章のテンプレートを作成する"
+slug: blog-writing-template
 date: 2020-11-22T10:14:02+09:00
 draft: false
 author: sakamossan

@@ -1,5 +1,6 @@
 ---
 title: "vercel をはじめてつかったときのメモ"
+slug: vercel-101
 date: 2020-11-21T11:56:23+09:00
 draft: false
 author: sakamossan
