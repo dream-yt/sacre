@@ -13,3 +13,4 @@ git pull --ff-only origin master
 
 hugo new post/"$post_title".md --editor=code
 gsed -i -e "5i author: $author" content/post/"$post_title".md
+gsed -i -e "3i slug: $post_title" content/post/"$post_title".md
