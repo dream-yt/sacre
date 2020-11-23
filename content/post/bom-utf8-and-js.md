@@ -50,5 +50,4 @@ const blob = new Blob([bom, str], {type: 'application/octet-stream'});
 
 ## 参考
 
-- 
 - [【メモ】コマンドでのBOMの追加・削除・確認 - Qiita](https://qiita.com/tamanugi/items/63fe5cf8e709565777a5)

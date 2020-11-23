@@ -14,7 +14,7 @@ macを使いながらLambda向けのwheelを得るには、Lambda環境に似せ
 
 このコマンドでLambda向けのwheelファイルを作ることができる。
 
-```
+```bash
 $ docker run --rm --volume $(pwd):/var/task \
     lambci/lambda:build-python3.8 \
     pip wheel {{ modulename }} -w /var/task
