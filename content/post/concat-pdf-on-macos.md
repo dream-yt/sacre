@@ -1,5 +1,5 @@
 ---
-title: "Concat Pdf on Macos"
+title: "macOSのターミナルで複数のPDFを1つにまとめる"
 slug: concat-pdf-on-macos
 date: 2021-01-11T10:51:02+09:00
 draft: false
