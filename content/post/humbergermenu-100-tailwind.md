@@ -26,15 +26,22 @@ const Nav = () => (
           </svg>
         </button>
       </div>
+      <div className="md:block hidden">
+        <Links />
+      </div>
     </nav>
-    <div>
-      <ul className="md:flex md:justify-end">
-        <MenuItem url="/foo">FOO</MenuItem>
-        <MenuItem url="/bar">BAR</MenuItem>
-        <MenuItem url="/baz">BAZ</MenuItem>
-      </ul>
+    <div className="md:hidden">
+      <Links />
     </div>
   </header>
+)
+
+const Links = () => (
+  <ul className="md:flex md:justify-end">
+    <MenuItem url="/foo">FOO</MenuItem>
+    <MenuItem url="/bar">BAR</MenuItem>
+    <MenuItem url="/baz">BAZ</MenuItem>
+  </ul>  
 )
 const MenuItem = ({ url, children, isLast }) => (
   <li className={isLast ? "" : "border-b"}>
@@ -85,6 +92,31 @@ const MenuItem = ({ url, children, isLast }) => (
 ### span. md:px-2 md:text-sm
 
 リンクアイテムの余白と文字サイズを調整
+
+
+### md:block hidden
+
+この部分
+
+```jsx
+    <nav>
+      ...
+      <div className="md:block hidden">
+        <Links />
+      </div>
+    </nav>
+    <div className="md:hidden">
+      <Links />
+    </div>
+```
+
+tailwindcssではメディアクエリの指定は **この画面サイズより小さいとき** という指定になる。
+
+- 上のdomはmd(iPadの)より大きい画面サイズで `display: block`
+  - それより小さいサイズでは `display:none (hidden)`
+- md(iPadの)より大きい画面サイズで `display: hidden`
+  - それより小さいサイズではそのまま表示されている
+
 
 # 残りTODO
 
