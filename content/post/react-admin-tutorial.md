@@ -1,5 +1,5 @@
 ---
-title: "React Admin Tutorial"
+title: "React-admin のチュートリアルを読んだメモ"
 slug: react-admin-tutorial
 date: 2021-03-31T18:12:23+09:00
 draft: false
