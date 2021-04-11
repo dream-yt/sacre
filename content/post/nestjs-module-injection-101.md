@@ -23,7 +23,8 @@ nestjsの特徴と嬉しい点はDIの仕組みがしっかりしているとこ
 
 > the list of imported modules that export the providers which are required in this module
 
-モジュールが、どのモジュールに依存しているかを定義する
+モジュールが、どのモジュールに依存しているかを定義する。
+引数には Module を渡すので、Service クラスを記述するところではない。
 
 
 #### controllers
@@ -38,7 +39,8 @@ nestjsでは最終的にコントローラがリクエストをハンドリン�
 
 > the providers that will be instantiated by the Nest injector and that may be shared at least across this module
 
-ここで定義したものは同じモジュール内で共用される。とくにサービスクラスがここに定義される。
+ここで定義したものがモジュール内でインスタンス化されて使えるようになる。
+とくにサービスクラスがここに定義される。
 
 なお、providers に定義するためにはクラスに `@Injectable` デコレータをつける必要がある。
 

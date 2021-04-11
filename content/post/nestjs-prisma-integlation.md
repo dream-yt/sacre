@@ -123,3 +123,10 @@ service.ts では constructor に定義すれば this から使える。
 +    return this.prisma.Denylist.create({data});
    }
 ```
+
+### テストが落ちる
+
+テストで依存性が解決できないというエラーになるのでそちらも直す。
+
+
+- ["make sure that the argument HttpService at index [0] is available" NestJS error - My Day To-Do](https://mydaytodo.com/make-sure-that-the-argument-httpservice-at-index-0-nestjs/)
