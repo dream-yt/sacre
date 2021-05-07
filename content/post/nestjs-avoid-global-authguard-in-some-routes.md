@@ -26,7 +26,7 @@ NestJS の `App#useGlobalGuards` を使うと、すべてのルート(エンド�
 
 ### 認証をしないためのデコレータ
 
-`SetMetadata` はルートにかけるデコレータをつくるためのヘルパーである。ここで設定されたメタデータは して、Reflector 
+`SetMetadata` はルートにかけるデコレータをつくるためのヘルパーである。ここで設定されたメタデータは Reflector を通してGuardの中で参照される。
 
 ```ts
 import { SetMetadata } from '@nestjs/common';
