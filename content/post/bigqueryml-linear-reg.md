@@ -39,3 +39,18 @@ ORDER BY label
 ## 結果を眺める
 
 しばらくすると計算が終わる。モデルの `評価` タブをみると `決定係数` がみられる。
+
+## predict させる
+
+こんなクエリでつくったモデルに predict をさせることができる。
+
+```sql
+-- 1970-01-01 からの日数が predicted_label から返ってくるのでキャスとして Date に戻す
+SELECT DATE_FROM_UNIX_DATE(CAST(predicted_label AS INT64))
+FROM ML.PREDICT(
+        MODEL `misc.kaiki_user_id__date`,
+        (
+            SELECT 123456 as user_id
+        )
+    )
+```
