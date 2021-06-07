@@ -50,6 +50,7 @@ SELECT DATE_FROM_UNIX_DATE(CAST(predicted_label AS INT64))
 FROM ML.PREDICT(
         MODEL `misc.kaiki_user_id__date`,
         (
+            -- 説明変数のはカラム名が合っている必要がある
             SELECT 123456 as user_id
         )
     )
