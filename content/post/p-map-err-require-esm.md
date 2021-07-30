@@ -1,5 +1,5 @@
 ---
-title: "P Map Err Require Esm"
+title: "p-map で Error [ERR_REQUIRE_ESM]: Must use import to load ES Module"
 slug: p-map-err-require-esm
 date: 2021-07-23T23:51:53+09:00
 draft: false
@@ -31,8 +31,8 @@ issueになっているが、とてもそっけない
 
 ## 対応
 
-これ自体は悪い決断ではないと思うが、パッケージの利用者にはtree-shakingとか以外には大きなメリットはないはず。
-そもそもとてもシンプルなライブラリなので機能追加もない。過去のバージョンにて利用を続ければよい。
+これ自体は悪い決断ではないと思うが、パッケージの利用者にはtree-shakingとか以外には大きなメリットはない変更である。
+`p-map` はとてもシンプルなライブラリなので機能追加もなく、もうしばらく過去のバージョンにて利用を続けることにした。
 
 ```console
 yarn add p-map@4
