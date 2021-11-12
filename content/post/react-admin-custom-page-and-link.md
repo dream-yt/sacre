@@ -1,5 +1,5 @@
 ---
-title: "React Admin Custom Page and Link"
+title: "react-admin で、react-admin の機能を使わないページを作りたいときの方法"
 slug: react-admin-custom-page-and-link
 date: 2021-11-12T17:22:03+09:00
 draft: false
