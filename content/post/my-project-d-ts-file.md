@@ -1,7 +1,7 @@
 ---
 title: ".d.ts ファイルを自作してimportする"
 slug: my-project-d-ts-file
-date: 2020-01-12T12:35:03+09:00
+date: 2021-08-01T10:05:04+09:00
 draft: false
 author: sakamossan
 ---
@@ -44,7 +44,14 @@ tscは `@types` という名前のディレクトリを見つけたらそれの�
 
 `src/@types/foo.d.ts` といった場所にファイルを作成しておく
 
+なお、`tsconfig.json#baseUrl` に指定がないと tsc が型定義ファイルを探せないので設定が必要。
+`src/@types` 配下の定義を認識させるのなら以下のように設定する。
 
+```diff
+     "noUnusedLocals": false,
++    "baseUrl": "./src",
+     "outDir": "lib",
+```
 ## importする
 
 こんな感じでimportすればnamespaceが使える
@@ -52,3 +59,8 @@ tscは `@types` という名前のディレクトリを見つけたらそれの�
 ```ts
 import './@types/foo';
 ```
+
+
+## 参考
+
+- [typeRootsの誤解 -- TypeScriptで、npmからインストールしたパッケージに型定義ファイル (*.d.ts) が存在しない場合の正しい対処方法 - Qiita](https://qiita.com/tetradice/items/b89a5dd41fcebf96379e)
