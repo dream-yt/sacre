@@ -81,3 +81,14 @@ hasCJKLanguage = true
 	# facebook-square = "https://www.facebook.com/nodejh"
 	twitter-square = "https://twitter.com/FUTABA_SACRE"
 	github-square = "https://github.com/dream-yt/sacre"
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^code$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  [security.funcs]
+    getenv = ['^HUGO_']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
