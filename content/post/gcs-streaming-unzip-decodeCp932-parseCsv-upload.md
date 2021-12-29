@@ -1,5 +1,5 @@
 ---
-title: "Gcs Streaming Unzip DecodeCp932 ParseCsv Upload"
+title: "nodejsでGCSからStreamしながらunzipしてファイルを取り出してShift-JISのCSVファイルをJSONLine形式にしてまたGCS上に出力する"
 slug: gcs-streaming-unzip-decodeCp932-parseCsv-upload
 date: 2021-12-29T14:49:59+09:00
 draft: false
