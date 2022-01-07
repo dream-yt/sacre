@@ -26,3 +26,4 @@ author: sakamossan
   - `/github signin`
 - [ ] subscribe
   - `/github subscribe {{owner}}/{{repository}}`
+  - `/github subscribe {{owner}}/{{repository}} commits:'*'`
