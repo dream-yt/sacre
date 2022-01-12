@@ -26,17 +26,31 @@ type DataTableSettings = ConstructorParameters<typeof jQueryDataTable>[0]
 
 ```ts
 import jQueryDataTable from "datatables.net";
-// 値であるjQueryDataTableの型を取り出す
+// 値であるjQueryDataTableの型定義を取り出す
 type DataTableConstructor = typeof jQueryDataTable;
-// jQueryDataTableはコンストラクタなので、newに対する引数を取り出す
+// jQueryDataTableはコンストラクタなので、newに対する引数の型定義を取り出す
 type DataTableConstructorParameter = ConstructorParameters<DataTableConstructor>;
-// ConstructorParameters は引数の型を配列で返すので、コンストラクタの1つ目の引数取り出す
+// ConstructorParameters は引数の配列型で返るので、コンストラクタの1つ目の引数の型定義を取り出す
 type DataTableSettings = DataTableConstructorParameter[0]
 ```
 
 
+## 調子に乗る
+
+調子に乗ってカラムの型も取り出すとこうなる。
+
+```ts
+export type DataTableSettings = NonNullable<DataTableSettingsArgs>;
+export type T = NonNullable<DataTableSettings["columns"]>;
+export type DataTableColumnSetting = T;
+```
+
+`NonNullable` とカラム名を指定した型の取得をする。
+
+
 ## 参考
 
+- [TypeScript: Documentation - Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html#nonnullabletype)
 - [TypeScript/lib.es5.d.ts at v3.3.1 · microsoft/TypeScript](https://github.com/Microsoft/TypeScript/blob/v3.3.1/lib/lib.es5.d.ts#L1476-L1479)
 - [DefinitelyTyped/datatables.net at master · DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/datatables.net/index.d.ts#L1220)
 - [TypeScript. How to use not exported type definitions? - Stack Overflow](https://stackoverflow.com/questions/46754984/typescript-how-to-use-not-exported-type-definitions)
