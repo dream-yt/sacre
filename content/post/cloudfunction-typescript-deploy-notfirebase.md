@@ -133,3 +133,17 @@ gcloud functions deploy \
     # ランタイムを指定
     --runtime=nodejs14 \
 ```
+
+
+## その他
+
+package.json に以下のような定義がはいっているとCloudBuild上でビルドができなくてハマる。
+
+```json
+  "main": "dist/index.js",
+```
+
+> ERROR: (gcloud.functions.deploy) OperationError: code=3, message=Build failed: dist/index.js does not exist; Error ID: 9e84f42e
+
+この定義があると、CloudBuild は `dist/dist/index.js` を探してしまうことになるため。
+定義を削除して「index.js または function.js を探す」というデフォルトの挙動に戻してやる必要がある。
