@@ -21,6 +21,7 @@ spreadsheetはpublicにしてcsvで取得するのが一番楽だが、
 
 ### APIライブラリのページでSheetsAPIを有効化
 
+- https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=
 - https://console.developers.google.com/apis/library/drive.googleapis.com
 
 ![image](https://user-images.githubusercontent.com/5309672/49325337-08fbad80-f584-11e8-8c55-739cd1b75b28.png)

@@ -9,7 +9,7 @@ author: sakamossan
 こんな感じでできる。
 
 ```bash
-for _ in $(ls -1 ./some-directory/*.txt | xargs basename -s=.txt); do
+for _ in $(ls -1 ./some-directory/*.txt | xargs basename -s .txt); do
     echo $_
 done
 ```
