@@ -11,8 +11,9 @@ author: sakamossan
 ### gcpアカウントのセットアップ
 
 ```bash
-$ gcloud config set project penguin-xxxxxxxxxx
-$ gcloud config set account penguin@gmail.com
+$ gcloud config configurations create okokng
+$ gcloud config set project okokng-xxxxxxxxxx
+$ gcloud config set account okokng@gmail.com
 $ gcloud auth login
 ```
 

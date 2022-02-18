@@ -113,9 +113,8 @@ npx tsc
 # デプロイディレクトリに package.json が必要なのでコピー
 cp ./package.json ./dist/
 
-# デプロイ先の環境があっているように念の為設定
-gcloud config set account xxxxxxxx@gmail.com
-gcloud config set project macro-fucker-xxxxxxx
+# デプロイ先の環境があっているように念の為設定 (以前に手痛い失敗があった)
+export CLOUDSDK_ACTIVE_CONFIG_NAME=xxxxxx
 
 gcloud functions deploy \
     # デプロイする CloudFunction の名前を定義
