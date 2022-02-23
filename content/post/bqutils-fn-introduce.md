@@ -1,5 +1,5 @@
 ---
-title: "Bqutils Fn Introduce"
+title: "便利な bqutil"
 slug: bqutils-fn-introduce
 date: 2022-02-15T14:31:11+09:00
 draft: false
