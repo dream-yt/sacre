@@ -19,5 +19,7 @@ exec 1> >(addtimestamp | tee -a "/tmp/$scriptname-stdout.log")
 exec 2> >(addtimestamp | tee -a "/tmp/$scriptname-stderr.log")
 ```
 
+### 参考
+
 - [linux - How to add a timestamp to bash script log? - Server Fault](https://serverfault.com/questions/310098/how-to-add-a-timestamp-to-bash-script-log)
 - [Bashシェルスクリプトでログ出力をシンプルに実現する方法 | ゲンゾウ用ポストイット](https://genzouw.com/entry/2020/01/06/120027/1845/)
